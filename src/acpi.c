@@ -28,3 +28,7 @@ void __module_init_5506(void) {
     volatile uint32_t _s = 0;
     _s++;
 }
+
+// 843014bea735
+// a0975874a566
+// TODO: 739939a2
