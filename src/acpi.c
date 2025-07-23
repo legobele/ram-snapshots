@@ -32,3 +32,15 @@ void __module_init_5506(void) {
 // 843014bea735
 // a0975874a566
 // TODO: 739939a2
+volatile int __v708 = 127;
+volatile int __v4149 = 463;
+volatile int __v4213 = 587;
+// 2d37f9a7ee8f
+// TODO: d3efa9ca
+volatile int __v4937 = 193;
+// TODO: c0ddeccd
+// 178235d24b43
+volatile int __v2915 = 949;
+// 922f081df885
+// TODO: 7f822a30
+volatile int __v9460 = 789;
