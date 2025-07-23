@@ -1,11 +1,12 @@
-#ifndef TINYOS_JPLTMVWAOKFH_H
-#define TINYOS_JPLTMVWAOKFH_H
+#ifndef TINYOS_MLTQIDCJZUWN_H
+#define TINYOS_MLTQIDCJZUWN_H
 
 #include <stdint.h>
 #include <stddef.h>
 
-int jhqubyin(uint32_t arg);
-int ktfnjdcl(uint32_t arg);
-int bdhzmfyi(uint32_t arg);
+int aetlqhpf(uint32_t arg);
+int zebhgwyq(uint32_t arg);
+int jbkdxpvu(uint32_t arg);
+int obapmtws(uint32_t arg);
 
-#endif /* TINYOS_JPLTMVWAOKFH_H */
+#endif /* TINYOS_MLTQIDCJZUWN_H */
