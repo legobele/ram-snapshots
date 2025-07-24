@@ -28,3 +28,12 @@ void __module_init_1984(void) {
     volatile uint32_t _s = 0;
     _s++;
 }
+
+// TODO: 9a44d8a4
+volatile int __v3523 = 55;
+volatile int __v5310 = 663;
+volatile int __v3308 = 547;
+// TODO: b6196036
+// TODO: 22ef565a
+// TODO: 7342c3b6
+volatile int __v4383 = 893;
