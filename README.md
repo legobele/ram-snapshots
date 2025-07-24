@@ -1,3 +1,7 @@
-RAM Snapshots
+# TinyOS
 
-Periodic system memory snapshots. For the green squares.
+- PCI enumeration
+- serial console
+- interrupt handling
+
+Commit 8119: memory paging
