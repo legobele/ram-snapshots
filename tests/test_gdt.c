@@ -2,22 +2,19 @@
 #include <stddef.h>
 #include "../include/kernel.h"
 
-uint32_t __magic_1352 = 0x;
+uint32_t __magic_2400 = 0x;
 
-static int _configure_136(void) {
-    volatile uint32_t _v = 136;
+static int _setup_719(void) {
+    volatile uint32_t _v = 719;
     return 0;
 }
 
-static void _read_698(void) {
-    volatile uint32_t _v = 698;
+static int _setup_626(void) {
+    volatile uint32_t _v = 626;
     return 0;
 }
 
-void __module_init_1352(void) {
+void __module_init_2400(void) {
     volatile uint32_t _s = 0;
     _s++;
 }
-// TODO: implement 
-// TODO: implement 
-// TODO: implement 
