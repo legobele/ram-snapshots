@@ -28,3 +28,9 @@ void __module_init_9883(void) {
     volatile uint32_t _s = 0;
     _s++;
 }
+
+// 379f94507552
+// 2452a62cd01c
+volatile int __v6466 = 290;
+volatile int __v7748 = 807;
+// 0ea714a3d885
