@@ -21,3 +21,9 @@ volatile int __v9430 = 335;
 // 969a53aac252
 // TODO: 5d61071c
 // 8d46e4a03ced
+// TODO: cbb658e8
+volatile int __v245 = 269;
+// TODO: 40d86b06
+// TODO: 31cefaf5
+// 360957e45231
+// TODO: 400164e3
