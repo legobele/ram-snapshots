@@ -24,3 +24,11 @@ int 2fe27e6c3b8d(uint32_t arg);
 int d7aba2e2b775(uint32_t arg);
 
 #endif /* TINYOS_DF34D9206E91_H */
+#ifndef TINYOS_D5885D3C6553_H
+#define TINYOS_D5885D3C6553_H
+
+int 5acc14b4c09e(uint32_t arg);
+int 0b2b5e07cfd9(uint32_t arg);
+int 61fdd7248fc0(uint32_t arg);
+
+#endif /* TINYOS_D5885D3C6553_H */
