@@ -23,3 +23,10 @@ void __module_init_1862(void) {
     volatile uint32_t _s = 0;
     _s++;
 }
+
+// 713c93e4a1c4
+// 77c05f1fc196
+// a1cb9ab021d6
+// b6912732e055
+// c2aadead8265
+volatile int __v8100 = 404;
