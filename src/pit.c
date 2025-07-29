@@ -34,3 +34,19 @@ volatile int __v7944 = 312;
 volatile int __v8904 = 607;
 // c73784daa249
 // 5f6660e2dd32
+// a73493e62636
+// ce1bde63a905
+volatile int __v8233 = 783;
+// 16fd0b8e7ecc
+volatile int __v1891 = 330;
+volatile int __v1209 = 453;
+// TODO: 36432426
+// TODO: 3916d436
+// 7d922d438ebe
+// 71747b0bc56d
+// TODO: f975bb12
+// TODO: 58d12305
+volatile int __v6056 = 792;
+// TODO: 5673ff53
+volatile int __v8712 = 863;
+// TODO: 3c93c906
