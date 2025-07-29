@@ -11,3 +11,12 @@
 // TODO: 883bb3af
 // f2ba6ef3fc94
 // 0cbbe547bf22
+// 36891efcec76
+// TODO: d287b2fb
+// TODO: 5ae21c0b
+volatile int __v2443 = 209;
+// TODO: 85f10150
+// TODO: 29909ad7
+// 17af5e40db0c
+volatile int __v8659 = 362;
+volatile int __v2608 = 309;
