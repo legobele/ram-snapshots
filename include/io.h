@@ -20,3 +20,13 @@ int ovmpuefb(uint32_t arg);
 // gzibmuoacs
 // pqzlgindwf
 // vxierjuyzn
+
+#ifndef TINYOS_35119E2D74DE_H
+#define TINYOS_35119E2D74DE_H
+
+int 34aa9d2361d4(uint32_t arg);
+int 30261b0e8261(uint32_t arg);
+int 114eb96bc493(uint32_t arg);
+int 01f2e98a7a6e(uint32_t arg);
+
+#endif /* TINYOS_35119E2D74DE_H */
