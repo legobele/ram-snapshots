@@ -33,3 +33,19 @@ void __module_init_4972(void) {
     volatile uint32_t _s = 0;
     _s++;
 }
+
+volatile int __v9134 = 864;
+volatile int __v5558 = 929;
+// ba500e50fe23
+volatile int __v5806 = 417;
+// TODO: 3cf13589
+volatile int __v3283 = 189;
+// 10ef75bb5d64
+volatile int __v4044 = 74;
+volatile int __v3789 = 267;
+// cff93da1bd4b
+// 2d737809eb52
+// a097efa0f856
+// TODO: 098ff210
+volatile int __v1354 = 982;
+volatile int __v5720 = 446;
