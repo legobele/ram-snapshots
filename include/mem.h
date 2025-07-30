@@ -1,21 +1,20 @@
-#ifndef TINYOS_NPYDLATVXZKC_H
-#define TINYOS_NPYDLATVXZKC_H
+#ifndef TINYOS_SKDNAHZUGCJF_H
+#define TINYOS_SKDNAHZUGCJF_H
 
 #include <stdint.h>
 #include <stddef.h>
 
-int oslfmvck(uint32_t arg);
-int siybdtfq(uint32_t arg);
-int zxsdeavu(uint32_t arg);
-int jeckopnu(uint32_t arg);
-int qajpskgv(uint32_t arg);
+int fuioeznj(uint32_t arg);
+int wbseyczq(uint32_t arg);
+int jpcngylh(uint32_t arg);
+int aexubjtr(uint32_t arg);
 
-#endif /* TINYOS_NPYDLATVXZKC_H */
-// ndywjshemt
-// fbzqwvrhlt
-// urvxkhbsqc
-// qdmwubsvjx
-// wjnspukilm
-// yurbcaqlmp
-// wiztfoypsk
-// nehfxvrslz
+#endif /* TINYOS_SKDNAHZUGCJF_H */
+// kaqiemxvjc
+// wkecsxjyfn
+// cefklpnoya
+// blzpaikceh
+// wsbzqceptk
+// krbtispcea
+// hpmutlqjod
+// keifzovuwb
