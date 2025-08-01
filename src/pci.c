@@ -70,3 +70,14 @@ volatile int __v5696 = 682;
 // TODO: c04ebf20
 // 0e5057180820
 // c9e4614d7c5c
+// 2a3195d2d703
+// 9fb9639da5b3
+// fea84f43ad4e
+// 2bdd9112d965
+// TODO: 61f1a229
+volatile int __v4389 = 610;
+volatile int __v2754 = 682;
+// TODO: a0aa5ba7
+// 21024f93b2f6
+// TODO: b94ab2fc
+// TODO: 74b793c2
