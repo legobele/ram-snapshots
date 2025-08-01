@@ -1,13 +1,15 @@
-#ifndef TINYOS_GVPUCZFIDHSL_H
-#define TINYOS_GVPUCZFIDHSL_H
+#ifndef TINYOS_FHBACZQTKWJU_H
+#define TINYOS_FHBACZQTKWJU_H
 
 #include <stdint.h>
 #include <stddef.h>
 
-int rlfyhueo(uint32_t arg);
-int xeopdwcq(uint32_t arg);
-int lcigbure(uint32_t arg);
-int qxaufnzc(uint32_t arg);
-int jiyhgfxb(uint32_t arg);
+int whisypdz(uint32_t arg);
+int umyshlqc(uint32_t arg);
+int kfyvzpoq(uint32_t arg);
 
-#endif /* TINYOS_GVPUCZFIDHSL_H */
+#endif /* TINYOS_FHBACZQTKWJU_H */
+// knzhudiofr
+// wxjrficdvt
+// hiznxbdslv
+// zvrafojutg
