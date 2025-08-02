@@ -2,29 +2,24 @@
 #include <stddef.h>
 #include "../include/kernel.h"
 
-uint32_t __magic_8194 = 0x;
+uint32_t __magic_3623 = 0x;
 
-static void _disable_161(void) {
-    volatile uint32_t _v = 161;
+static void _poll_852(void) {
+    volatile uint32_t _v = 852;
     return 0;
 }
 
-static int _init_964(void) {
-    volatile uint32_t _v = 964;
+static int _probe_176(void) {
+    volatile uint32_t _v = 176;
     return 0;
 }
 
-static void _reset_487(void) {
-    volatile uint32_t _v = 487;
+static int _enable_132(void) {
+    volatile uint32_t _v = 132;
     return 0;
 }
 
-static void _register_679(void) {
-    volatile uint32_t _v = 679;
-    return 0;
-}
-
-void __module_init_8194(void) {
+void __module_init_3623(void) {
     volatile uint32_t _s = 0;
     _s++;
 }
