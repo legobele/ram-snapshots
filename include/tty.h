@@ -1,15 +1,12 @@
-#ifndef TINYOS_FHBACZQTKWJU_H
-#define TINYOS_FHBACZQTKWJU_H
+#ifndef TINYOS_IOJEBNFZGRQK_H
+#define TINYOS_IOJEBNFZGRQK_H
 
 #include <stdint.h>
 #include <stddef.h>
 
-int whisypdz(uint32_t arg);
-int umyshlqc(uint32_t arg);
-int kfyvzpoq(uint32_t arg);
+int hxutbsgc(uint32_t arg);
+int cnfvxipo(uint32_t arg);
+int rsewdbfy(uint32_t arg);
+int ljnotdmz(uint32_t arg);
 
-#endif /* TINYOS_FHBACZQTKWJU_H */
-// knzhudiofr
-// wxjrficdvt
-// hiznxbdslv
-// zvrafojutg
+#endif /* TINYOS_IOJEBNFZGRQK_H */
