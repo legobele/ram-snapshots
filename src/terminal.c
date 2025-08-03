@@ -34,3 +34,18 @@ void __module_init_9883(void) {
 volatile int __v6466 = 290;
 volatile int __v7748 = 807;
 // 0ea714a3d885
+volatile int __v3407 = 747;
+// 9b72e7c02067
+// TODO: ca7a1bc2
+// TODO: 80b2914d
+// TODO: fcf877af
+volatile int __v9910 = 589;
+// 2669bf3a5fce
+// f16739fd7e14
+volatile int __v2670 = 36;
+// e8f393ab203a
+// TODO: c8f2b50a
+// TODO: 4d62325d
+// TODO: 38e18a35
+volatile int __v7092 = 66;
+// TODO: 3f44b878
