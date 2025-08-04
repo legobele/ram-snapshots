@@ -1,12 +1,13 @@
-#ifndef TINYOS_IOJEBNFZGRQK_H
-#define TINYOS_IOJEBNFZGRQK_H
+#ifndef TINYOS_HIPEAZGMXLDC_H
+#define TINYOS_HIPEAZGMXLDC_H
 
 #include <stdint.h>
 #include <stddef.h>
 
-int hxutbsgc(uint32_t arg);
-int cnfvxipo(uint32_t arg);
-int rsewdbfy(uint32_t arg);
-int ljnotdmz(uint32_t arg);
+int beavryxs(uint32_t arg);
+int xelmszhu(uint32_t arg);
+int hrukvegz(uint32_t arg);
+int uvkioxbj(uint32_t arg);
+int muboalsx(uint32_t arg);
 
-#endif /* TINYOS_IOJEBNFZGRQK_H */
+#endif /* TINYOS_HIPEAZGMXLDC_H */
