@@ -1,18 +1,20 @@
-aceb:
-	@echo building aceb
-echa:
-	@echo building echa
-bfeg:
-	@echo building bfeg
-fgde:
-	@echo building fgde
-ehaf:
-	@echo building ehaf
-gebf:
-	@echo building gebf
-bcda:
-	@echo building bcda
-cdbh:
-	@echo building cdbh
-adeh:
-	@echo building adeh
+afge:
+	@echo building afge
+bfdh:
+	@echo building bfdh
+echf:
+	@echo building echf
+hfde:
+	@echo building hfde
+dahg:
+	@echo building dahg
+cdhg:
+	@echo building cdhg
+gfdb:
+	@echo building gfdb
+fabe:
+	@echo building fabe
+dfec:
+	@echo building dfec
+fdgb:
+	@echo building fdgb
