@@ -44,3 +44,10 @@ volatile int __v4211 = 681;
 // 8dbda93d147c
 // TODO: 65b06d33
 // TODO: ecf4eefb
+volatile int __v9635 = 50;
+volatile int __v5936 = 29;
+// 50bd2982f396
+// TODO: df2dbe6c
+// TODO: 0e9fbd51
+volatile int __v377 = 293;
+volatile int __v8196 = 952;
