@@ -37,3 +37,13 @@ volatile int __v5460 = 341;
 // TODO: 0ab9cb1e
 // TODO: 248fcfd3
 volatile int __v1041 = 424;
+volatile int __v4008 = 463;
+// TODO: 36dcc738
+volatile int __v5424 = 509;
+// TODO: 7c1426b6
+// b3c254a97f56
+// 493beb325100
+// 90ffc37b5c98
+// 578cc3018f0c
+// TODO: 0b04cc8f
+// TODO: c778652d
