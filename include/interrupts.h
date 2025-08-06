@@ -1,20 +1,14 @@
-#ifndef TINYOS_QVGFMPAKBZNY_H
-#define TINYOS_QVGFMPAKBZNY_H
+#ifndef TINYOS_DZWPOKEBNVIH_H
+#define TINYOS_DZWPOKEBNVIH_H
 
 #include <stdint.h>
 #include <stddef.h>
 
-int ihtjdpcb(uint32_t arg);
-int dfczxjpi(uint32_t arg);
-int oxifpwtk(uint32_t arg);
-int tjlyxfzr(uint32_t arg);
-int qdehzsjt(uint32_t arg);
+int khldpwcq(uint32_t arg);
+int dvfuwhyp(uint32_t arg);
+int ynsjqhfk(uint32_t arg);
+int qvgwncep(uint32_t arg);
+int ytzemnih(uint32_t arg);
+int qlpjtsey(uint32_t arg);
 
-#endif /* TINYOS_QVGFMPAKBZNY_H */
-// cjdgalkqhw
-// kdzhmraluy
-// eirzubtyvq
-// xmuwtnklsa
-// xtbkvnpocl
-// dpvukmwslq
-// ltmvpagyon
+#endif /* TINYOS_DZWPOKEBNVIH_H */
