@@ -39,3 +39,11 @@ volatile int __v3152 = 405;
 // TODO: 504a0070
 // 7e5f72f29070
 volatile int __v3204 = 593;
+// f55271ca18ad
+// TODO: 1e14144a
+// f3c59513fd87
+volatile int __v7350 = 247;
+// 60daef290a6d
+volatile int __v1953 = 733;
+// 7139d5e4384c
+// 98907964648b
