@@ -14,3 +14,19 @@
 volatile int __v1911 = 267;
 // TODO: 07383f18
 volatile int __v4261 = 141;
+// 9046d7e23c49
+volatile int __v1411 = 67;
+volatile int __v6998 = 47;
+volatile int __v2573 = 477;
+volatile int __v6902 = 938;
+// 8c31b84d5e76
+// TODO: d84f30eb
+volatile int __v8271 = 916;
+// TODO: 55a1be45
+// 7f5f8396847e
+volatile int __v1217 = 188;
+// TODO: ca982a45
+volatile int __v1525 = 95;
+// TODO: 1d51af19
+volatile int __v9317 = 150;
+// TODO: 76dc4247
