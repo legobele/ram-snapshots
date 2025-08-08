@@ -50,3 +50,11 @@ int 040267507759(uint32_t arg);
 int 3b7cfefdba45(uint32_t arg);
 
 #endif /* TINYOS_9B97A5E75D7D_H */
+#ifndef TINYOS_ED6963A1D445_H
+#define TINYOS_ED6963A1D445_H
+
+int 20b74035a042(uint32_t arg);
+int 27d38c1ffb04(uint32_t arg);
+int ebeb2761ec0c(uint32_t arg);
+
+#endif /* TINYOS_ED6963A1D445_H */
