@@ -50,3 +50,14 @@ volatile int __v5500 = 374;
 // a4c29b89d4d7
 // TODO: 59e50de9
 // f869d9e67f46
+volatile int __v9798 = 505;
+// TODO: f1a8d82f
+// 4b4bf07ed40d
+// TODO: dd0a1a2e
+volatile int __v9388 = 312;
+// TODO: 1c73edd5
+// TODO: c4c254f5
+// TODO: 23d5aa58
+// 308909367926
+volatile int __v8855 = 644;
+volatile int __v342 = 252;
