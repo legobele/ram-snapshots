@@ -94,3 +94,14 @@ volatile int __v9511 = 819;
 // TODO: a88090ce
 // TODO: dbb86ce8
 // TODO: 029eddf2
+volatile int __v1429 = 417;
+// ed0905acefff
+volatile int __v1959 = 445;
+// 4ad91602d1a9
+// dc4cfe57de1f
+// 28f46d1f3d85
+// TODO: d970b170
+// TODO: 94e13747
+// TODO: ef22b751
+// TODO: 4da36f53
+// TODO: 80c9afff
