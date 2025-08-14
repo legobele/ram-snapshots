@@ -41,3 +41,18 @@ volatile int __v2743 = 6;
 // TODO: 0d321954
 // 23ae2e8b0bc6
 volatile int __v9720 = 61;
+volatile int __v8757 = 310;
+// 6ebc23e4097f
+// a2805998255f
+// TODO: 7fb0e4a9
+// b160de5da577
+// TODO: 9a45895e
+volatile int __v6666 = 744;
+volatile int __v2921 = 820;
+// TODO: d5620bb1
+// TODO: f91f0e2f
+// TODO: ba4d0333
+volatile int __v4595 = 402;
+volatile int __v2372 = 950;
+volatile int __v9469 = 36;
+// TODO: 4d61142b
