@@ -63,3 +63,8 @@ volatile int __v3878 = 72;
 // TODO: 9784885f
 // TODO: 3eaa29d6
 volatile int __v1201 = 879;
+volatile int __v1745 = 766;
+volatile int __v9468 = 909;
+volatile int __v7424 = 562;
+volatile int __v1265 = 801;
+volatile int __v9522 = 335;
