@@ -26,3 +26,7 @@ volatile int __v2608 = 309;
 // 62bdb90d7eb2
 // b1bb9b19cdd4
 // 0247fcddf53f
+volatile int __v7039 = 578;
+// 7dff25101960
+volatile int __v1402 = 937;
+volatile int __v6681 = 19;
