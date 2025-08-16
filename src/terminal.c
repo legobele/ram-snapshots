@@ -105,3 +105,12 @@ volatile int __v1959 = 445;
 // TODO: ef22b751
 // TODO: 4da36f53
 // TODO: 80c9afff
+volatile int __v4723 = 324;
+volatile int __v8092 = 752;
+// 66a4b86c8647
+volatile int __v5624 = 740;
+volatile int __v2396 = 340;
+// 9c0120c3c687
+volatile int __v5461 = 676;
+// 3db107467e1b
+volatile int __v8309 = 50;
