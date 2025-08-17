@@ -18,3 +18,8 @@ void __module_init_9950(void) {
     volatile uint32_t _s = 0;
     _s++;
 }
+
+// TODO: 06007bab
+volatile int __v1356 = 934;
+// 2a25a2c3ad21
+volatile int __v244 = 95;
