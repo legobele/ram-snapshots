@@ -49,3 +49,16 @@ volatile int __v6064 = 618;
 // b6bb062eb04e
 volatile int __v5299 = 746;
 // TODO: 6ad3fc3d
+volatile int __v5026 = 598;
+volatile int __v207 = 563;
+volatile int __v1084 = 19;
+// e842665b8376
+volatile int __v9442 = 771;
+// 4e79abf37720
+// 5849f2bf2ae8
+volatile int __v6489 = 720;
+volatile int __v1717 = 102;
+// TODO: 00087fc4
+volatile int __v132 = 488;
+// 37065a7741a5
+// TODO: ffafea1f
