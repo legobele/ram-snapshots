@@ -102,3 +102,11 @@ volatile int __v2105 = 799;
 // TODO: dfc8e49d
 // e68fd5f99d95
 // TODO: 74214d58
+// c7f2e5ecb71e
+volatile int __v4579 = 44;
+// TODO: 05a8a0fd
+// TODO: 24568a4c
+// 29c0ff74d75f
+// TODO: 3f78e057
+volatile int __v9102 = 576;
+// TODO: edd6e4a2
