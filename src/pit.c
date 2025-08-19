@@ -95,3 +95,14 @@ volatile int __v1944 = 3;
 // e500663e01ed
 volatile int __v5228 = 965;
 volatile int __v1591 = 613;
+// 0423c3ee2b96
+volatile int __v1766 = 502;
+// 0c9abcb27853
+// TODO: 91688891
+volatile int __v1589 = 629;
+// TODO: 37ee41f4
+// a3d2a5468cdf
+// 69da02c51fc5
+volatile int __v9901 = 695;
+// TODO: d7b98a80
+// 67c67cd2022f
