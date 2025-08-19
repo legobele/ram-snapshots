@@ -110,3 +110,20 @@ volatile int __v4579 = 44;
 // TODO: 3f78e057
 volatile int __v9102 = 576;
 // TODO: edd6e4a2
+// TODO: 73aa37eb
+volatile int __v8261 = 206;
+// fa2dd6e2f80a
+volatile int __v132 = 937;
+// TODO: 9aaccbb3
+volatile int __v2027 = 904;
+volatile int __v1732 = 290;
+// TODO: e971dceb
+// 45cdcc3cb98e
+volatile int __v8171 = 372;
+volatile int __v1983 = 100;
+volatile int __v4450 = 920;
+// f67af9a7a6e9
+// TODO: 255ba0e7
+volatile int __v3084 = 973;
+// f253a7bb12ad
+volatile int __v5175 = 569;
