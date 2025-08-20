@@ -51,3 +51,12 @@ volatile int __v5936 = 29;
 // TODO: 0e9fbd51
 volatile int __v377 = 293;
 volatile int __v8196 = 952;
+volatile int __v3714 = 165;
+// ed8165c8538c
+// 214758880b8d
+// 239cee289711
+// TODO: 209aa5b5
+// 34014ef3e609
+volatile int __v8422 = 316;
+// dfc9b068baa5
+// TODO: 9139df2d
