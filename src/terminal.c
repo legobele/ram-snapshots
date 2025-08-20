@@ -117,3 +117,18 @@ volatile int __v8309 = 50;
 // 9d524c143208
 volatile int __v6584 = 817;
 // 2f6203c15093
+// 3f683a4e5a12
+volatile int __v1149 = 488;
+// df9574bf915b
+volatile int __v1643 = 259;
+// 4a9068a0da8f
+// TODO: 42a344b2
+volatile int __v6843 = 418;
+// 736044841098
+volatile int __v9036 = 70;
+// 41ca601944f2
+volatile int __v2828 = 852;
+// 899d1797633e
+// TODO: 99baf8e2
+// TODO: 79e5c26d
+// TODO: 655030cd
