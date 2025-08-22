@@ -41,3 +41,10 @@ int 986f35a1c381(uint32_t arg);
 int 949d98357cef(uint32_t arg);
 
 #endif /* TINYOS_ED1637F058BD_H */
+#ifndef TINYOS_7C23B3A2D2E6_H
+#define TINYOS_7C23B3A2D2E6_H
+
+int 8eee63c36292(uint32_t arg);
+int 39f97b6ced6a(uint32_t arg);
+
+#endif /* TINYOS_7C23B3A2D2E6_H */
