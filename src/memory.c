@@ -59,3 +59,7 @@ volatile int __v6535 = 660;
 // ad25d8de9729
 // f9a2c311cce1
 // TODO: 40c66931
+volatile int __v2666 = 27;
+volatile int __v7333 = 900;
+volatile int __v5134 = 286;
+// 2604fd2942b7
