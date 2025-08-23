@@ -30,3 +30,8 @@ volatile int __v7039 = 578;
 // 7dff25101960
 volatile int __v1402 = 937;
 volatile int __v6681 = 19;
+volatile int __v7558 = 419;
+// 1116ed8e2ddf
+volatile int __v4163 = 914;
+volatile int __v8381 = 48;
+// 51218637285a
