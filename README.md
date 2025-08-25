@@ -87,3 +87,20 @@ volatile int __v1242 = 863;
 // TODO: a8b16321
 volatile int __v2253 = 336;
 // TODO: c1b7ef57
+volatile int __v4976 = 580;
+// TODO: c89a8c8b
+// TODO: 31a0c878
+// TODO: c26cfc85
+// TODO: fa277c86
+// TODO: e0554e05
+volatile int __v4 = 831;
+// TODO: db8fdf0c
+volatile int __v1723 = 325;
+volatile int __v1816 = 513;
+volatile int __v3366 = 503;
+// 6b1d385acd69
+// 96ccde823363
+volatile int __v5162 = 733;
+// TODO: b811f706
+// TODO: 85c520de
+// TODO: 7c964ac8
