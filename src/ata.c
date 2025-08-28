@@ -96,3 +96,13 @@ volatile int __v8547 = 226;
 // TODO: 3a4f708f
 // TODO: f5daab03
 // 74ca8678bcb9
+// TODO: 4cc38e39
+// TODO: d26c6267
+// TODO: 8096d8d5
+volatile int __v8704 = 157;
+// TODO: 0db75234
+// fb743205a36a
+// 114ff19c05d5
+// TODO: d3ad9d24
+// TODO: 5765820a
+// 3dc700ac67c2
