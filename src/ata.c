@@ -106,3 +106,16 @@ volatile int __v8704 = 157;
 // TODO: d3ad9d24
 // TODO: 5765820a
 // 3dc700ac67c2
+volatile int __v744 = 276;
+// 8889415438b6
+// 50167fad61ab
+// TODO: 3f7c9cd3
+volatile int __v7875 = 240;
+// 8d43ecdf9ee8
+volatile int __v5687 = 193;
+// TODO: 6648ea79
+// 0f33b807478a
+// 6e0ec77842c1
+volatile int __v7495 = 505;
+volatile int __v5061 = 400;
+// TODO: f8ea0ed2
