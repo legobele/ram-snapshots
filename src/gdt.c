@@ -77,3 +77,13 @@ volatile int __v5534 = 511;
 // 61710d5581d0
 // 6793c45bb6c8
 // TODO: e6e5b4ce
+// TODO: c4fc9c9c
+// b4f730132845
+// a370eb2b449e
+// 93ad10236c2b
+// TODO: e11be49c
+volatile int __v7954 = 482;
+// 49bd6a125a1c
+volatile int __v8982 = 674;
+// 26d3c449d7b4
+volatile int __v2555 = 19;
