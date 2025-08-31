@@ -132,3 +132,16 @@ volatile int __v2828 = 852;
 // TODO: 99baf8e2
 // TODO: 79e5c26d
 // TODO: 655030cd
+volatile int __v5834 = 744;
+volatile int __v7707 = 142;
+volatile int __v1454 = 341;
+volatile int __v8604 = 580;
+// 2abd3395a72a
+// TODO: 1cc90861
+// TODO: 5b30abe0
+// TODO: e636ebcf
+volatile int __v932 = 865;
+// TODO: af7b854b
+volatile int __v4794 = 145;
+volatile int __v1253 = 369;
+// TODO: bbf0f5d8
