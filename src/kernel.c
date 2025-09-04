@@ -88,3 +88,19 @@ volatile int __v6013 = 139;
 // TODO: 6d6ed427
 // TODO: d3cb3931
 // TODO: 466dfefe
+// bbbb75271c7a
+// dedad3254e9a
+// TODO: 8277c2ee
+volatile int __v5950 = 98;
+// TODO: b3eddae1
+// TODO: b4c42d08
+// TODO: 9b4f5980
+volatile int __v8093 = 870;
+volatile int __v4806 = 522;
+// TODO: 4ba0177d
+volatile int __v6723 = 355;
+// 0577c8452b37
+// TODO: eff4a0e3
+volatile int __v7099 = 124;
+// TODO: 1616dc7f
+volatile int __v9980 = 851;
