@@ -129,3 +129,14 @@ volatile int __v7659 = 905;
 // TODO: 1f885990
 volatile int __v8808 = 514;
 // 8ebe00ab21e3
+volatile int __v6029 = 768;
+// d5c7ae280da8
+// TODO: ead72cf0
+// TODO: 1a6924b7
+// 7a07df208856
+// TODO: 79ae1749
+// TODO: a87eedf1
+// TODO: 5df529fd
+// TODO: 10796e55
+// e20303ed98e7
+// 5e71f249fea4
