@@ -80,3 +80,19 @@ volatile int __v2845 = 827;
 volatile int __v3199 = 161;
 // TODO: a00472a8
 // daceb09ce5a6
+// 4d319c557de4
+volatile int __v1624 = 356;
+// TODO: 9c5e3a3a
+// e6e57838c158
+volatile int __v1301 = 179;
+// TODO: 4b345167
+// 288a001789a2
+volatile int __v1428 = 391;
+// TODO: 422c1521
+// TODO: 1047452b
+// TODO: a02c1c75
+// 8deafba65463
+// TODO: cce931b7
+volatile int __v1438 = 204;
+volatile int __v896 = 679;
+// TODO: 0cea1b78
