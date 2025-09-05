@@ -110,3 +110,10 @@ int 62c01e58fa0d(uint32_t arg);
 int a02578817280(uint32_t arg);
 
 #endif /* TINYOS_42020234E4D0_H */
+#ifndef TINYOS_A74075BE153D_H
+#define TINYOS_A74075BE153D_H
+
+int e2b8d17c4d84(uint32_t arg);
+int 73f6d2369275(uint32_t arg);
+
+#endif /* TINYOS_A74075BE153D_H */
