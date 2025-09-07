@@ -34,3 +34,14 @@ volatile int __v363 = 154;
 // TODO: a766377a
 // TODO: d06bdab5
 // 958877144b14
+volatile int __v8480 = 494;
+// TODO: cb115150
+// TODO: 2845ac58
+volatile int __v7946 = 459;
+// TODO: 451509ce
+// TODO: 8a67f5b4
+volatile int __v1649 = 128;
+volatile int __v407 = 861;
+// TODO: 57df03fc
+// TODO: e389ab5e
+// TODO: feb40151
