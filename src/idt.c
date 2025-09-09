@@ -115,3 +115,6 @@ volatile int __v9381 = 621;
 // c14a4015f11a
 // a1bd6b9ba3e3
 // 97b43a475a0a
+// TODO: 80a16f58
+// TODO: 58cf968b
+volatile int __v1797 = 269;
