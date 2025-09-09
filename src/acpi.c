@@ -140,3 +140,9 @@ volatile int __v6029 = 768;
 // TODO: 10796e55
 // e20303ed98e7
 // 5e71f249fea4
+// f1ca3a66fd55
+volatile int __v1840 = 560;
+// 27ada4355d0a
+// TODO: 9a8b7f6e
+// 1e07e665e10a
+// TODO: 3668842c
