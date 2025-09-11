@@ -99,3 +99,10 @@ int 30848991d832(uint32_t arg);
 int 9540d6474a83(uint32_t arg);
 
 #endif /* TINYOS_05405CEA1931_H */
+#ifndef TINYOS_35BB917925BA_H
+#define TINYOS_35BB917925BA_H
+
+int 574ccfd801d6(uint32_t arg);
+int bc2a7fdefbe2(uint32_t arg);
+
+#endif /* TINYOS_35BB917925BA_H */
