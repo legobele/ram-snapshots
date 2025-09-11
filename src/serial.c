@@ -78,3 +78,10 @@ volatile int __v4350 = 747;
 volatile int __v7280 = 299;
 volatile int __v2757 = 156;
 volatile int __v4646 = 82;
+volatile int __v950 = 376;
+volatile int __v4793 = 985;
+// TODO: 5e2c9bf4
+volatile int __v4191 = 973;
+// 0b1396df9047
+volatile int __v8244 = 991;
+// TODO: fbe346be
