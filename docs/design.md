@@ -90,3 +90,6 @@ volatile int __v8540 = 948;
 // 11ffaa0ee7c7
 volatile int __v1586 = 487;
 // TODO: 4052d3a7
+volatile int __v9503 = 192;
+// 670c97c216d6
+volatile int __v3161 = 289;
