@@ -158,3 +158,6 @@ volatile int __v737 = 736;
 volatile int __v9271 = 870;
 volatile int __v5877 = 619;
 // TODO: d728d83a
+volatile int __v3435 = 660;
+// TODO: cf25efaf
+volatile int __v6440 = 179;
