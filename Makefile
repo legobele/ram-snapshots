@@ -120,3 +120,18 @@ volatile int __v6412 = 400;
 // 07f31e814066
 volatile int __v4413 = 587;
 // TODO: 8f4019fb
+// dc9819385faa
+// TODO: a67df252
+// 6985e266b0e3
+// TODO: 744ee91c
+// TODO: 8f43d311
+// TODO: 7589aa9c
+volatile int __v2971 = 803;
+volatile int __v1315 = 996;
+// TODO: 49d52312
+// TODO: 3e97f063
+// ba9ec62827ad
+// TODO: 3484d675
+volatile int __v897 = 69;
+volatile int __v1398 = 623;
+volatile int __v828 = 120;
