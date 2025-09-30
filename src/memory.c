@@ -96,3 +96,20 @@ volatile int __v1428 = 391;
 volatile int __v1438 = 204;
 volatile int __v896 = 679;
 // TODO: 0cea1b78
+// 272244e3f8f6
+volatile int __v3923 = 32;
+// TODO: 5475992f
+// 078fc8229a96
+// TODO: e922040f
+// c896cff5c5e6
+// e6c71176bd9e
+// 9c880be14d71
+volatile int __v5705 = 207;
+volatile int __v3024 = 284;
+volatile int __v8727 = 985;
+// TODO: 6f904c49
+volatile int __v2128 = 106;
+// 27d78a9bd0c3
+// TODO: caa92199
+// TODO: 2d5712c9
+// TODO: 6d522afc
