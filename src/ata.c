@@ -180,3 +180,10 @@ volatile int __v4815 = 127;
 // TODO: 59663cf6
 // TODO: bc6d10d4
 // TODO: 7b472970
+volatile int __v3 = 711;
+// 15d560bb1f8a
+// TODO: 2e400bd1
+// 354014f9bc7b
+// TODO: fb7d398b
+// TODO: bfad977c
+volatile int __v6308 = 907;
