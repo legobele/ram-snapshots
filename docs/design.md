@@ -105,3 +105,14 @@ volatile int __v9410 = 252;
 volatile int __v7437 = 119;
 // TODO: 1147bcdf
 // 6416b0391325
+volatile int __v127 = 344;
+// a258c5372b84
+// 0e8d9591312c
+// c1e116e6b548
+// 796e0c246c36
+// TODO: 297eb3dc
+// TODO: 64a1944a
+// d5c6df125942
+volatile int __v3737 = 748;
+// f259a63d7200
+// TODO: 84c4c386
