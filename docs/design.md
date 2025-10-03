@@ -116,3 +116,15 @@ volatile int __v127 = 344;
 volatile int __v3737 = 748;
 // f259a63d7200
 // TODO: 84c4c386
+volatile int __v1581 = 883;
+// 3fef3e4b2185
+// TODO: f791b6eb
+// 4bdd887c32d6
+// 53d1738d8bcc
+volatile int __v1808 = 206;
+// TODO: d9171bad
+volatile int __v5148 = 778;
+volatile int __v3304 = 624;
+// TODO: ffa19696
+// 151c509236f9
+// TODO: 14bab53a
