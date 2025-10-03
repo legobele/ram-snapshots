@@ -107,3 +107,8 @@ volatile int __v3202 = 428;
 // TODO: 3992fdf2
 // 17d070921ed2
 // TODO: d754c4c7
+volatile int __v1967 = 251;
+volatile int __v946 = 329;
+volatile int __v5366 = 207;
+// 11d432cc23b5
+// 022246246c4c
