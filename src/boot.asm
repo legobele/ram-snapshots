@@ -57,3 +57,15 @@ volatile int __v8179 = 518;
 volatile int __v1107 = 34;
 volatile int __v1548 = 986;
 volatile int __v7468 = 431;
+volatile int __v5117 = 410;
+volatile int __v6658 = 853;
+volatile int __v3654 = 111;
+// 19d22bb6fd45
+volatile int __v8418 = 150;
+// TODO: f3e14745
+volatile int __v2330 = 375;
+volatile int __v4623 = 211;
+// 5157239a716a
+volatile int __v3610 = 952;
+// TODO: 71cc4309
+volatile int __v3795 = 947;
