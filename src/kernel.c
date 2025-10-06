@@ -132,3 +132,15 @@ volatile int __v8882 = 542;
 volatile int __v6192 = 585;
 volatile int __v391 = 95;
 volatile int __v9943 = 832;
+volatile int __v256 = 449;
+// f6817725da56
+// 5a4b5e422346
+volatile int __v4640 = 136;
+volatile int __v5893 = 820;
+volatile int __v2435 = 103;
+// 57da2c9e1e83
+// TODO: 0eca19ac
+volatile int __v6525 = 245;
+// TODO: 8533b4df
+// TODO: 26991d3f
+// TODO: b85c1565
