@@ -139,3 +139,13 @@ int 15cd28136060(uint32_t arg);
 int 1db3369e359d(uint32_t arg);
 
 #endif /* TINYOS_882418F13B3F_H */
+#ifndef TINYOS_928049ED2EEC_H
+#define TINYOS_928049ED2EEC_H
+
+int a627e2390150(uint32_t arg);
+int 1eeac26363cb(uint32_t arg);
+int dc137bb8e0ee(uint32_t arg);
+int 829ed2efad5b(uint32_t arg);
+int 428b2e359c56(uint32_t arg);
+
+#endif /* TINYOS_928049ED2EEC_H */
