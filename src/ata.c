@@ -187,3 +187,12 @@ volatile int __v3 = 711;
 // TODO: fb7d398b
 // TODO: bfad977c
 volatile int __v6308 = 907;
+// TODO: 7bad2bb2
+volatile int __v9079 = 305;
+// 7a36acabc7bb
+// 0eb5a2e43a1b
+// 63468ccb8011
+volatile int __v3459 = 729;
+// ea49cbe53ab9
+volatile int __v1923 = 28;
+// TODO: 1aadbd12
