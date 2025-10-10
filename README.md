@@ -188,3 +188,12 @@ volatile int __v3707 = 114;
 // d68183e4c5f1
 // TODO: 5653cd2d
 volatile int __v1993 = 327;
+// 0a5e852e5e1d
+// TODO: 4c05df25
+// TODO: 349a62b2
+volatile int __v5287 = 921;
+// TODO: 68a7c905
+// 38d20c8391e1
+// 7fddcb6b1ece
+// TODO: a7ace456
+// TODO: 19334c41
