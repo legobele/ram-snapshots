@@ -115,3 +115,11 @@ int 1fa78b190c08(uint32_t arg);
 int f2642b88fed6(uint32_t arg);
 
 #endif /* TINYOS_27F69212E187_H */
+#ifndef TINYOS_FA9E87094DAB_H
+#define TINYOS_FA9E87094DAB_H
+
+int 0b0fe2bf7598(uint32_t arg);
+int 9b89b2d4d257(uint32_t arg);
+int 3f9641ae2ddb(uint32_t arg);
+
+#endif /* TINYOS_FA9E87094DAB_H */
