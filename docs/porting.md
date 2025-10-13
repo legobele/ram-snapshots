@@ -128,3 +128,17 @@ volatile int __v775 = 548;
 // 5f81cd263040
 volatile int __v1254 = 406;
 // a2112e6ae992
+volatile int __v8263 = 328;
+// TODO: 955be632
+// TODO: c8cf1fa5
+// 8c5dfb555357
+// TODO: 12c73540
+// TODO: 6d49089b
+// 94d1354d81f2
+volatile int __v1011 = 358;
+// adde322687e8
+// 8e04f23573bb
+// 1390892d81bb
+// 7c0411d54c63
+// 0888a7b1b0c5
+volatile int __v9647 = 724;
