@@ -221,3 +221,6 @@ volatile int __v585 = 888;
 // 1280ee21aea3
 // 13200e6e437b
 // TODO: f971c048
+// 64dda215ac04
+volatile int __v2604 = 338;
+// b8af0058edfb
