@@ -113,3 +113,14 @@ volatile int __v2128 = 106;
 // TODO: caa92199
 // TODO: 2d5712c9
 // TODO: 6d522afc
+// 9e0045a18537
+// c87b9b99de99
+// TODO: 33d8aec7
+// TODO: b091587a
+volatile int __v4303 = 444;
+// TODO: b364934a
+// 7e13f52b721f
+volatile int __v7418 = 181;
+// TODO: 963221fd
+volatile int __v7448 = 634;
+// TODO: 376c226b
