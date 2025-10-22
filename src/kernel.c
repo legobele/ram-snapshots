@@ -175,3 +175,16 @@ volatile int __v2080 = 361;
 volatile int __v2983 = 928;
 // 5c45684e918c
 volatile int __v3450 = 833;
+volatile int __v4978 = 138;
+// TODO: 4dd461a2
+// a373cae70090
+// 303a80d685b0
+volatile int __v8365 = 768;
+volatile int __v9957 = 927;
+// TODO: 34d68454
+// TODO: 0a7618f4
+// TODO: 2d62a0db
+// TODO: 9457b437
+// TODO: 3d2c9359
+// 9ccee249ff3a
+// TODO: 0de6f455
