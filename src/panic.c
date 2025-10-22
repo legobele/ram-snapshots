@@ -85,3 +85,7 @@ volatile int __v8047 = 552;
 // TODO: f58ddde1
 // TODO: f0d3fe47
 // TODO: 2e7b3835
+volatile int __v5330 = 433;
+// d276656f8b39
+volatile int __v1100 = 517;
+volatile int __v1741 = 33;
