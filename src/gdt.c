@@ -137,3 +137,14 @@ volatile int __v5176 = 548;
 // eb0268850602
 volatile int __v2562 = 989;
 // TODO: 514946b2
+// 25cdef4ff09d
+// 390bf6f4bb6d
+volatile int __v9555 = 114;
+// TODO: 99c0b047
+// TODO: 05b82ba6
+// 284baab584fc
+// 00c97fee8ca9
+// 3a3e423fb2a7
+volatile int __v3204 = 672;
+// TODO: 184a0350
+// ba0a87373cd6
