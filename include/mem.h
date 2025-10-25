@@ -160,3 +160,10 @@ int cdef00d82d39(uint32_t arg);
 int 1b59775c1796(uint32_t arg);
 
 #endif /* TINYOS_78621A55540F_H */
+#ifndef TINYOS_DF42D962C25D_H
+#define TINYOS_DF42D962C25D_H
+
+int a71617811fc7(uint32_t arg);
+int 2a01cfaeedb4(uint32_t arg);
+
+#endif /* TINYOS_DF42D962C25D_H */
