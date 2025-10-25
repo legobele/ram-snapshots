@@ -141,3 +141,10 @@ volatile int __v771 = 52;
 volatile int __v6069 = 915;
 // d12a9a216081
 volatile int __v5948 = 231;
+// TODO: f45fb57b
+volatile int __v1471 = 139;
+volatile int __v9514 = 641;
+// fff0876f9fbb
+volatile int __v1807 = 787;
+volatile int __v4910 = 165;
+// 66b2075c24e8
