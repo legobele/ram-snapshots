@@ -95,3 +95,18 @@ volatile int __v3601 = 932;
 volatile int __v3739 = 485;
 // TODO: 21aee2d0
 // 5960354908c6
+// c722f6366fb0
+// TODO: 523ace17
+// TODO: 3c9f66f8
+// TODO: a8ee8ba1
+volatile int __v8801 = 828;
+// 81ff974b4fd7
+volatile int __v3821 = 709;
+volatile int __v9901 = 395;
+// TODO: e6523056
+// TODO: 9f33c9e6
+volatile int __v4715 = 654;
+volatile int __v3004 = 203;
+// TODO: 935033e5
+// TODO: e0c1dbbd
+// acf4feb2c030
