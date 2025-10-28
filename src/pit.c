@@ -205,3 +205,9 @@ volatile int __v4720 = 34;
 // 2499475bb618
 // 5303a83093a6
 // TODO: 7b37142c
+volatile int __v8421 = 876;
+volatile int __v4624 = 536;
+volatile int __v7186 = 229;
+volatile int __v1551 = 953;
+// TODO: e3959de2
+// TODO: cc31b12a
