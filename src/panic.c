@@ -92,3 +92,18 @@ volatile int __v1741 = 33;
 // f14cdfdde89e
 // ea6cba0648ef
 // 060b635382f0
+volatile int __v2524 = 651;
+volatile int __v9268 = 731;
+// 9ee4cf23d52d
+// TODO: 79d08fca
+// 82d8ed76398a
+volatile int __v8611 = 729;
+// TODO: ba0c66cc
+volatile int __v2688 = 177;
+// 142a6f859c2b
+// bddde2a66bc7
+volatile int __v7487 = 363;
+volatile int __v876 = 320;
+// a4ec1ec95b17
+volatile int __v260 = 95;
+// TODO: 4db2855e
