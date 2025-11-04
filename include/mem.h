@@ -179,3 +179,10 @@ int be4c57128947(uint32_t arg);
 int c0d063310366(uint32_t arg);
 
 #endif /* TINYOS_07D436907FEF_H */
+#ifndef TINYOS_7F7BAC2491DA_H
+#define TINYOS_7F7BAC2491DA_H
+
+int 15939ef4312b(uint32_t arg);
+int 9c31b20a29ba(uint32_t arg);
+
+#endif /* TINYOS_7F7BAC2491DA_H */
