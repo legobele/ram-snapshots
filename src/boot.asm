@@ -122,3 +122,18 @@ volatile int __v7567 = 721;
 // TODO: 6ccd6e42
 // c29450ca9cf3
 volatile int __v9785 = 163;
+// e86e42878410
+volatile int __v863 = 840;
+volatile int __v104 = 308;
+// TODO: 78cee5d5
+// f5fcbcb8b71b
+volatile int __v933 = 545;
+// TODO: 0885a21a
+volatile int __v5275 = 659;
+volatile int __v8692 = 278;
+volatile int __v1441 = 153;
+volatile int __v5521 = 5;
+volatile int __v529 = 654;
+// TODO: 0b01fc17
+// c90e2b2b8a72
+// TODO: 032713e1
