@@ -107,3 +107,10 @@ volatile int __v876 = 320;
 // a4ec1ec95b17
 volatile int __v260 = 95;
 // TODO: 4db2855e
+// 5e08c9f1798c
+volatile int __v4821 = 311;
+// b0490f78db33
+volatile int __v983 = 921;
+volatile int __v8137 = 424;
+// d1bf27887307
+// 43905a8ae3a0
