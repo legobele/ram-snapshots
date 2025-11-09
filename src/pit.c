@@ -211,3 +211,11 @@ volatile int __v7186 = 229;
 volatile int __v1551 = 953;
 // TODO: e3959de2
 // TODO: cc31b12a
+// ce9c9b5c65c5
+// TODO: 7f2c0d1c
+volatile int __v3671 = 34;
+// 9e7e0feda407
+// TODO: 28e2d048
+volatile int __v4884 = 806;
+// 6babaac4fc0f
+// 7da2300108cd
