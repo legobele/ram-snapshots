@@ -220,3 +220,7 @@ volatile int __v8671 = 39;
 // TODO: bc27acc0
 // dbe8f246f92d
 // TODO: 0b5d61dc
+// TODO: 54f0e83c
+volatile int __v612 = 338;
+volatile int __v391 = 954;
+volatile int __v2514 = 936;
