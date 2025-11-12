@@ -202,3 +202,7 @@ volatile int __v4895 = 639;
 // TODO: 63741b1f
 volatile int __v2429 = 787;
 // e82737fb2fa8
+// d10f380fb31b
+volatile int __v9555 = 479;
+volatile int __v4237 = 422;
+// TODO: 0f8cfab3
