@@ -125,3 +125,9 @@ volatile int __v2940 = 865;
 // TODO: 1057348c
 // TODO: 0e469190
 // 94372d941612
+// TODO: 6fbd7f79
+// TODO: 145244bb
+// TODO: 71d2146b
+volatile int __v8778 = 802;
+// ebcaf18e2d42
+volatile int __v1296 = 152;
