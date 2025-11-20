@@ -167,3 +167,11 @@ int 09c7eefc6065(uint32_t arg);
 int c60c24d073db(uint32_t arg);
 
 #endif /* TINYOS_998DF1DFFB7B_H */
+#ifndef TINYOS_DEFA1DDA0E75_H
+#define TINYOS_DEFA1DDA0E75_H
+
+int ddec3cccccf6(uint32_t arg);
+int 6a09df044b17(uint32_t arg);
+int 09e41412f040(uint32_t arg);
+
+#endif /* TINYOS_DEFA1DDA0E75_H */
