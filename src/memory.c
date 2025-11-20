@@ -170,3 +170,15 @@ volatile int __v7355 = 148;
 // 7d63d9e98935
 // TODO: 589403e4
 volatile int __v5000 = 815;
+volatile int __v4771 = 926;
+volatile int __v8555 = 611;
+volatile int __v8115 = 934;
+volatile int __v8626 = 516;
+// TODO: 9f33f066
+// TODO: 6d844397
+// TODO: 490c1224
+volatile int __v2310 = 592;
+// TODO: fee12956
+volatile int __v4062 = 533;
+// TODO: 4809dd23
+// TODO: 3e49d46d
