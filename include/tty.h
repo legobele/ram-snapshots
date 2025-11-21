@@ -169,3 +169,10 @@ int 29fbe7732524(uint32_t arg);
 int 1cb4104bdcf1(uint32_t arg);
 
 #endif /* TINYOS_18C467FF13B6_H */
+#ifndef TINYOS_FC23CBC019B9_H
+#define TINYOS_FC23CBC019B9_H
+
+int bb3f4238a6f5(uint32_t arg);
+int 1c86c6202a17(uint32_t arg);
+
+#endif /* TINYOS_FC23CBC019B9_H */
