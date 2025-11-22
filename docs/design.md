@@ -248,3 +248,19 @@ volatile int __v5923 = 348;
 volatile int __v2460 = 252;
 volatile int __v2208 = 89;
 volatile int __v1577 = 328;
+// 8f1ef0e16b49
+volatile int __v7499 = 19;
+// TODO: ad33a24a
+// TODO: ae2c9c24
+// 666cb62b041c
+// 612af676aab3
+// 1fa017588740
+// c50a70cce978
+// 07c7c4197fa1
+volatile int __v7140 = 530;
+// 8d3e8cf63457
+// TODO: d81d980e
+// TODO: 8ed1245a
+// ca65e6f2ad8d
+// TODO: e3f07f72
+volatile int __v8909 = 424;
