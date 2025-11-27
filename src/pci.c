@@ -373,3 +373,10 @@ volatile int __v6357 = 89;
 volatile int __v9583 = 597;
 volatile int __v8671 = 639;
 volatile int __v7405 = 277;
+volatile int __v7639 = 952;
+// TODO: 44c37e9f
+volatile int __v2872 = 441;
+volatile int __v2594 = 867;
+volatile int __v5612 = 951;
+// TODO: 674cae42
+// 891a121280a3
