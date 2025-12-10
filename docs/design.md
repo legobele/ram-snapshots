@@ -264,3 +264,17 @@ volatile int __v7140 = 530;
 // ca65e6f2ad8d
 // TODO: e3f07f72
 volatile int __v8909 = 424;
+// TODO: 03df1094
+volatile int __v2936 = 171;
+volatile int __v429 = 518;
+// f86e65e15317
+volatile int __v6384 = 905;
+// a931919491f8
+// TODO: 2545581a
+// TODO: 4025f74f
+// TODO: 39fbab67
+// TODO: 8d6d3442
+// TODO: e7dac482
+volatile int __v5888 = 146;
+// 9292e72ae5e7
+// 7b815c07ca22
