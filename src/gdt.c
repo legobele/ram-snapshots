@@ -187,3 +187,15 @@ volatile int __v6461 = 688;
 // ded5af247eee
 // 6c65e776ef1c
 // TODO: 46d70c7e
+// TODO: 4abd457d
+volatile int __v5636 = 733;
+// TODO: 857f9e44
+// 021989c33b92
+// TODO: d50d4b64
+// 59cfc3bf4180
+// 68f732bc5999
+// TODO: 6e32100a
+// a577d31c23fa
+volatile int __v6081 = 420;
+// TODO: a3e7ae8b
+// TODO: 57443c8f
