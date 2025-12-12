@@ -183,3 +183,8 @@ volatile int __v1178 = 740;
 volatile int __v9270 = 681;
 // 37e8c5b8a5bc
 // cf1f82556547
+// TODO: beeab10c
+volatile int __v4735 = 583;
+// 2751715d5a31
+volatile int __v5267 = 652;
+// 6b8f887ff7b8
