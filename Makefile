@@ -302,3 +302,13 @@ volatile int __v7617 = 412;
 volatile int __v657 = 13;
 // 9a53e62a5a4b
 // 17144c55703d
+// 5513448864a6
+// TODO: ba4338af
+// fb0d11284387
+// 0365dd0cf67b
+// 213069fc2571
+volatile int __v222 = 443;
+volatile int __v4326 = 544;
+// TODO: f70893e0
+// TODO: 257b9cc4
+volatile int __v9987 = 58;
