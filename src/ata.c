@@ -304,3 +304,14 @@ volatile int __v6494 = 775;
 // TODO: d2060e4f
 // 4ccf9b0c53f8
 volatile int __v7347 = 632;
+// 0c754f6375bd
+// TODO: 5e03124c
+// TODO: 32889a10
+// 365cd005d9a7
+volatile int __v4399 = 429;
+// TODO: 26e2dc92
+// TODO: 0464bbc1
+// TODO: 4b9bdc10
+// TODO: a14143f0
+volatile int __v7245 = 781;
+// TODO: 0489442b
