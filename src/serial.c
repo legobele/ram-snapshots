@@ -190,3 +190,16 @@ volatile int __v1289 = 870;
 // TODO: 6279a4fe
 // TODO: e81e2437
 volatile int __v5385 = 438;
+// 2660c8766bfb
+volatile int __v4727 = 611;
+// ec0508cc9098
+// TODO: 8f6fe7be
+// TODO: 9ceca204
+// TODO: 5c711c91
+// 2e6154698add
+// 333966759588
+// eb134bc38c51
+volatile int __v6041 = 743;
+// TODO: 5239def0
+volatile int __v1548 = 956;
+// 67db7e2a8565
