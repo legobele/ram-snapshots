@@ -306,3 +306,10 @@ int 6f6cb62e0c86(uint32_t arg);
 int 1273f3258bb7(uint32_t arg);
 
 #endif /* TINYOS_EB93AF76CFC5_H */
+#ifndef TINYOS_1A9C9C35A9C8_H
+#define TINYOS_1A9C9C35A9C8_H
+
+int 31fbde064eb2(uint32_t arg);
+int 6ca64b9ebe94(uint32_t arg);
+
+#endif /* TINYOS_1A9C9C35A9C8_H */
