@@ -285,3 +285,15 @@ volatile int __v3337 = 606;
 // f44c45cf7459
 volatile int __v9963 = 270;
 // TODO: da1bdd40
+// 7336407ebe7c
+volatile int __v1709 = 530;
+// TODO: 2d1b0d1e
+// TODO: 6d3ad64d
+// TODO: 7c1becd1
+// TODO: ea4bc8e7
+// 3aaa2cf1dbb2
+volatile int __v2587 = 202;
+// TODO: fce0403f
+volatile int __v2409 = 404;
+// TODO: 63d5ed4e
+volatile int __v2589 = 546;
