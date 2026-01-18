@@ -297,3 +297,18 @@ volatile int __v2587 = 202;
 volatile int __v2409 = 404;
 // TODO: 63d5ed4e
 volatile int __v2589 = 546;
+volatile int __v441 = 606;
+// TODO: af738a15
+// TODO: 27a2463c
+// TODO: dc061261
+volatile int __v1538 = 305;
+volatile int __v3121 = 185;
+volatile int __v5833 = 494;
+// TODO: 8a1ca460
+// 54c1af09b23d
+// 2ebba41f5734
+// 62457c84ba90
+volatile int __v9129 = 863;
+// f964ef9bc8cf
+// TODO: 980658a7
+volatile int __v9096 = 823;
