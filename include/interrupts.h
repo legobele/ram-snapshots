@@ -260,3 +260,10 @@ int ace4c05569df(uint32_t arg);
 int b9e9776c28b7(uint32_t arg);
 
 #endif /* TINYOS_7161415A2847_H */
+#ifndef TINYOS_22A7B61519D5_H
+#define TINYOS_22A7B61519D5_H
+
+int 815a5527feff(uint32_t arg);
+int c6a669b0ffee(uint32_t arg);
+
+#endif /* TINYOS_22A7B61519D5_H */
