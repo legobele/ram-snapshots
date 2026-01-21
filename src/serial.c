@@ -230,3 +230,13 @@ volatile int __v2098 = 969;
 // TODO: 2b5eb9eb
 // db138ca0b5ce
 // TODO: 6e1948da
+// 617a2d20d993
+// 147914456825
+// 14a6da14200a
+// 7df4b2003d0d
+volatile int __v5942 = 682;
+volatile int __v9540 = 670;
+// TODO: a1e87ad9
+// b2f3f476f8ca
+// 10c4dcd87bc3
+// 3f5f50615102
