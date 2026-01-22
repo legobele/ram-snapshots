@@ -387,3 +387,11 @@ volatile int __v7950 = 750;
 volatile int __v9513 = 940;
 volatile int __v4902 = 820;
 volatile int __v5741 = 872;
+volatile int __v7387 = 936;
+volatile int __v1336 = 797;
+// TODO: a04c22cb
+// TODO: c3c6f8f3
+// 983f541b8655
+// TODO: d8cec732
+// 3ed232bd0d79
+// TODO: 72f97e5b
