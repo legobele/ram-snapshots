@@ -328,3 +328,7 @@ volatile int __v5278 = 639;
 // 17f189f147c1
 // fa1195958a86
 // 59ab29952845
+volatile int __v3532 = 901;
+// 26d3690b372b
+volatile int __v8522 = 467;
+// dded8cfb80f2
