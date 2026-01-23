@@ -384,3 +384,15 @@ volatile int __v1941 = 438;
 volatile int __v1980 = 158;
 // TODO: 6e3f7d35
 // TODO: ad59a3a5
+// b91c83f9bfa4
+// d87de843e8fc
+volatile int __v5819 = 25;
+// bc7a13674277
+volatile int __v785 = 834;
+volatile int __v5533 = 632;
+volatile int __v8368 = 521;
+// TODO: aa3d86a5
+// TODO: 979ed884
+// TODO: 0d280199
+// TODO: 392bdae8
+volatile int __v1283 = 379;
