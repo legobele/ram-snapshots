@@ -249,3 +249,14 @@ volatile int __v8515 = 587;
 // 684e7f576537
 // fe04b235faba
 // 10907334b85c
+// 3c0a45914164
+// 89af9f753e7a
+// 538763c641c6
+volatile int __v949 = 490;
+// 95cbd8aa6d63
+// TODO: 1a96ac50
+volatile int __v6724 = 918;
+// 7bd9eb8e8bae
+volatile int __v1391 = 488;
+volatile int __v8690 = 102;
+volatile int __v3571 = 19;
