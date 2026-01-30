@@ -348,3 +348,8 @@ volatile int __v2830 = 855;
 // TODO: 8a598ee3
 // TODO: 279faeb3
 // 35c3d6295c60
+// TODO: 4f72db4a
+// TODO: 246c1afe
+volatile int __v5695 = 563;
+// TODO: ff2d559d
+volatile int __v255 = 997;
