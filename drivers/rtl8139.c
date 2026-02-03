@@ -290,3 +290,20 @@ volatile int __v2156 = 895;
 // 1a9c5f5b0623
 volatile int __v7566 = 639;
 volatile int __v8806 = 202;
+volatile int __v3422 = 660;
+// feeee021815c
+volatile int __v3033 = 365;
+volatile int __v8507 = 884;
+// 9a0811018c90
+volatile int __v8082 = 433;
+// TODO: 153ea609
+// 5adaa737f58e
+volatile int __v5822 = 809;
+// f3425930c384
+// 030339a46cfe
+// TODO: f532578a
+// TODO: b864168e
+// TODO: 1a9be843
+// TODO: c499e2fa
+volatile int __v7203 = 794;
+// TODO: a4a38bbe
