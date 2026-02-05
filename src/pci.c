@@ -470,3 +470,12 @@ volatile int __v2628 = 712;
 // TODO: 91f1ff0c
 // TODO: 6dd5a156
 // f84dfd69f9d1
+volatile int __v1423 = 206;
+// TODO: e2c89f50
+// TODO: cd83b2e5
+volatile int __v6058 = 799;
+// fffb14a074d6
+volatile int __v5041 = 489;
+// TODO: 00914faf
+// TODO: 5daedbef
+// TODO: 12370182
