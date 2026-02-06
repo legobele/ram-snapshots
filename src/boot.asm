@@ -255,3 +255,12 @@ volatile int __v9506 = 150;
 // TODO: bfbda238
 // TODO: f255bf51
 // a3da6b8fba91
+// TODO: 9983c712
+// TODO: b5e4f9ed
+// TODO: e2ff97bd
+// TODO: 35b7b952
+// 736951b6f638
+volatile int __v6732 = 806;
+volatile int __v7746 = 191;
+// 118dde43bec1
+// 2401d1cdebf3
