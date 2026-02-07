@@ -295,3 +295,16 @@ volatile int __v2808 = 40;
 // TODO: 0dff63e2
 volatile int __v5750 = 872;
 // f2c216a8b034
+// 05e7eca1b96b
+// 8d0da9a2e2a4
+// TODO: 67aa9e4d
+// TODO: 5abcea94
+// 91c5c739afd5
+// TODO: 007902e5
+// 481a060e06c8
+volatile int __v7578 = 182;
+volatile int __v3416 = 20;
+// TODO: 824d6f60
+// 707fc7b8537d
+// TODO: bda8a257
+// 557e2b5fefb2
