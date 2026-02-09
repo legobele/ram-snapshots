@@ -350,3 +350,15 @@ volatile int __v8570 = 114;
 volatile int __v9956 = 198;
 // TODO: 6c792a36
 volatile int __v1441 = 354;
+volatile int __v3568 = 711;
+volatile int __v5266 = 394;
+volatile int __v2047 = 901;
+// TODO: 8bd87d86
+// TODO: adb65092
+volatile int __v8391 = 190;
+volatile int __v4163 = 241;
+// TODO: 44ee1a46
+// 6391d571e5e7
+// 7ea47c42aaa4
+// 94bf9d754ec6
+volatile int __v5702 = 863;
