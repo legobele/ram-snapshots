@@ -352,3 +352,11 @@ int 13e88133f3dd(uint32_t arg);
 int 175c858f27cf(uint32_t arg);
 
 #endif /* TINYOS_2E0FDADCE3D9_H */
+#ifndef TINYOS_A288AF8934DC_H
+#define TINYOS_A288AF8934DC_H
+
+int 5cf7f9a8bde6(uint32_t arg);
+int 4dfa90b49d4f(uint32_t arg);
+int 54f571bcf963(uint32_t arg);
+
+#endif /* TINYOS_A288AF8934DC_H */
