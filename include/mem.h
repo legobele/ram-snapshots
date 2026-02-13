@@ -360,3 +360,11 @@ int 4dfa90b49d4f(uint32_t arg);
 int 54f571bcf963(uint32_t arg);
 
 #endif /* TINYOS_A288AF8934DC_H */
+#ifndef TINYOS_E5A55F07BB2A_H
+#define TINYOS_E5A55F07BB2A_H
+
+int f7260eeeae81(uint32_t arg);
+int 7367e1699009(uint32_t arg);
+int e4a206e39910(uint32_t arg);
+
+#endif /* TINYOS_E5A55F07BB2A_H */
