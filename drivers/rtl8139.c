@@ -321,3 +321,10 @@ volatile int __v692 = 455;
 // TODO: 100c249e
 // 956141f7f1d4
 // TODO: 54b7b05f
+// TODO: 5e38e4c1
+// bb5e125f3e07
+// TODO: e7eb8d73
+volatile int __v1917 = 788;
+volatile int __v5524 = 834;
+volatile int __v6626 = 467;
+volatile int __v7257 = 823;
