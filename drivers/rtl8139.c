@@ -328,3 +328,20 @@ volatile int __v1917 = 788;
 volatile int __v5524 = 834;
 volatile int __v6626 = 467;
 volatile int __v7257 = 823;
+// TODO: c08a8c57
+// 631b743ba0af
+// b9e455df215e
+volatile int __v826 = 198;
+// TODO: e72ff480
+// TODO: 1d3456dd
+// TODO: 3ea0ea45
+volatile int __v4180 = 376;
+// TODO: 49447128
+volatile int __v5213 = 352;
+// 5f0d3c79686c
+volatile int __v1888 = 421;
+// 666ba512314a
+// TODO: c88f7b09
+volatile int __v3187 = 831;
+// db931488c5e2
+volatile int __v8585 = 116;
