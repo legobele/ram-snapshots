@@ -390,3 +390,16 @@ volatile int __v3821 = 765;
 volatile int __v6359 = 280;
 // be8738d8cd38
 volatile int __v7629 = 555;
+// 9101a2f57cfc
+// TODO: 755f71fe
+// affa88f98463
+volatile int __v5819 = 318;
+volatile int __v1463 = 727;
+volatile int __v6993 = 774;
+volatile int __v4431 = 27;
+// 5e9dcafdac02
+volatile int __v2234 = 701;
+// TODO: a70f1423
+// f1811e5a0195
+volatile int __v3064 = 408;
+// 71f9da6e731c
