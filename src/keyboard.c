@@ -421,3 +421,20 @@ volatile int __v1487 = 990;
 // 23a642d1a91b
 volatile int __v3409 = 811;
 volatile int __v5972 = 821;
+volatile int __v6715 = 46;
+volatile int __v4532 = 411;
+// 767b740655bc
+volatile int __v9026 = 6;
+volatile int __v6450 = 443;
+// TODO: 5d376243
+// 52d9517fcb2e
+// TODO: aefac9c8
+// b98d0f504211
+volatile int __v9601 = 975;
+// TODO: 215453e5
+// TODO: 734ff1e3
+volatile int __v6234 = 77;
+volatile int __v1149 = 618;
+volatile int __v8862 = 666;
+volatile int __v738 = 547;
+// TODO: 4f5186b9
