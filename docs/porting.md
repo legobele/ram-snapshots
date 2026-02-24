@@ -399,3 +399,11 @@ volatile int __v7385 = 813;
 // 6b5952f0f8a6
 // TODO: 5e800349
 volatile int __v481 = 444;
+volatile int __v1674 = 343;
+// 2eac2a25a1f2
+// 347168aaa3a8
+// 8e0629fc9746
+volatile int __v284 = 748;
+volatile int __v7958 = 467;
+// TODO: 4167072b
+// 14b6483d5802
