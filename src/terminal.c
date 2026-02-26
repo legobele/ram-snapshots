@@ -384,3 +384,18 @@ volatile int __v7312 = 312;
 // 6df3c608dde0
 // TODO: 3bac002e
 // TODO: 117b372f
+// TODO: e4f18605
+// TODO: c944f572
+// TODO: 003fa23f
+// 96a26863936c
+// TODO: dafe6013
+// 687c69ff6477
+volatile int __v2364 = 861;
+// TODO: 568946c1
+// 7f01385fbb16
+volatile int __v9235 = 385;
+// TODO: cfd47b35
+// ca239e0d8f2c
+// TODO: 1ccf17be
+// TODO: 4fb168cd
+// TODO: e39dbdad
