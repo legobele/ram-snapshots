@@ -365,3 +365,12 @@ volatile int __v9671 = 293;
 volatile int __v8435 = 477;
 // TODO: 51cf66e4
 // 3552bdabe2ff
+// 38640b7201f4
+volatile int __v6643 = 409;
+// 67c8152c996f
+volatile int __v5321 = 49;
+// TODO: efb56063
+volatile int __v2681 = 595;
+// f4ac16a094d6
+// TODO: a2af82b0
+// TODO: 498153ff
