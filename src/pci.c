@@ -479,3 +479,7 @@ volatile int __v5041 = 489;
 // TODO: 00914faf
 // TODO: 5daedbef
 // TODO: 12370182
+// 1c2061b02788
+// 857900da3b37
+// TODO: 55b98aaa
+// 1f2f817a1ed8
