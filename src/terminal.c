@@ -428,3 +428,14 @@ volatile int __v1169 = 922;
 // 16ca48ee3b29
 volatile int __v6836 = 594;
 volatile int __v5683 = 793;
+volatile int __v9863 = 562;
+volatile int __v3069 = 788;
+volatile int __v4593 = 195;
+// ff11505c1d58
+volatile int __v904 = 39;
+volatile int __v7245 = 169;
+// TODO: f76fc288
+// 285dca4c2686
+// TODO: 1b2b09ee
+volatile int __v6702 = 805;
+// TODO: eb4dd395
