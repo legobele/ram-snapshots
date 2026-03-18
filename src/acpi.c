@@ -450,3 +450,13 @@ volatile int __v2683 = 779;
 volatile int __v6886 = 412;
 // 1bd28072dec0
 // TODO: e8f073c6
+// a06ce02c7400
+volatile int __v5265 = 998;
+volatile int __v2963 = 658;
+// d9cc884a604f
+// 32d6ec319872
+// TODO: 51ff429c
+// TODO: ccd69214
+// TODO: ad1c3f7c
+// 471875c54cae
+volatile int __v4312 = 838;
