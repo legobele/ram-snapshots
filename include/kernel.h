@@ -360,3 +360,12 @@ int 2882b350bb5a(uint32_t arg);
 int b1c2a791c61a(uint32_t arg);
 
 #endif /* TINYOS_0A00F9E8C7F3_H */
+#ifndef TINYOS_238BE42766B4_H
+#define TINYOS_238BE42766B4_H
+
+int 2c3584ce2e48(uint32_t arg);
+int 6344ebe2ecea(uint32_t arg);
+int b16cb98f4ab2(uint32_t arg);
+int 778c2802d2ae(uint32_t arg);
+
+#endif /* TINYOS_238BE42766B4_H */
