@@ -375,3 +375,13 @@ volatile int __v2725 = 344;
 // TODO: fc748713
 // 8a1faa9ed3ee
 // TODO: a91af14b
+// TODO: c3d5e783
+volatile int __v9536 = 919;
+volatile int __v8260 = 271;
+volatile int __v1822 = 656;
+// 3c2825783fc3
+volatile int __v470 = 423;
+// 63a5593d6e42
+// TODO: 32b33a42
+volatile int __v3666 = 605;
+// dc76fd8d7172
