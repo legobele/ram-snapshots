@@ -519,3 +519,6 @@ volatile int __v1988 = 312;
 // 1fc2a25584c7
 volatile int __v6509 = 100;
 volatile int __v2658 = 655;
+volatile int __v2561 = 470;
+// TODO: ef7d2f8c
+volatile int __v9113 = 88;
