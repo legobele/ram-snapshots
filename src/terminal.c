@@ -439,3 +439,12 @@ volatile int __v7245 = 169;
 // TODO: 1b2b09ee
 volatile int __v6702 = 805;
 // TODO: eb4dd395
+// TODO: 5c8e1b18
+volatile int __v8085 = 532;
+// TODO: 169d1ff4
+volatile int __v5177 = 871;
+// TODO: d6ed7073
+// 7438d3c66eef
+// d51886a46b81
+// 46ec1c84ab75
+volatile int __v2222 = 396;
