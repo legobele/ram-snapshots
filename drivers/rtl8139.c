@@ -390,3 +390,14 @@ volatile int __v3234 = 849;
 // TODO: e528ac17
 // TODO: 7d17f921
 // TODO: bff8459a
+volatile int __v5246 = 452;
+// 311dfd696bc6
+volatile int __v6191 = 155;
+// 97a82873c757
+// TODO: f849a07f
+volatile int __v9990 = 38;
+// TODO: 390fb68d
+volatile int __v6146 = 155;
+// fec910d21778
+volatile int __v5940 = 95;
+volatile int __v5529 = 435;
