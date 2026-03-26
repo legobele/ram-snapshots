@@ -460,3 +460,12 @@ volatile int __v2963 = 658;
 // TODO: ad1c3f7c
 // 471875c54cae
 volatile int __v4312 = 838;
+// TODO: 1c6b9f2f
+// TODO: ae642c16
+// a1f14882fe02
+volatile int __v7419 = 993;
+// f87bab6ffb1f
+// bcff6d653ada
+// TODO: 383b365f
+// 7596055a2ce4
+// TODO: 80f3d307
