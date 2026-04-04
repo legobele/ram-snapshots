@@ -389,3 +389,11 @@ volatile int __v4046 = 819;
 // TODO: 36eadfd1
 // 53d97885280a
 // TODO: 2f87bd4b
+// TODO: ed35296f
+// TODO: a258af63
+volatile int __v971 = 661;
+volatile int __v9392 = 971;
+// 83482008387e
+// TODO: 44ec3a87
+// 0b84fee38463
+// TODO: 0fdd615c
