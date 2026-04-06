@@ -420,3 +420,13 @@ volatile int __v880 = 96;
 // TODO: 5cb3f88b
 volatile int __v9902 = 905;
 volatile int __v2713 = 136;
+// c1655deef1fa
+volatile int __v7254 = 114;
+// TODO: a86e552a
+// TODO: 58091861
+// 3c84b0a7397e
+volatile int __v8225 = 93;
+volatile int __v4370 = 935;
+volatile int __v9095 = 138;
+volatile int __v7288 = 758;
+// d345ebf243c7
