@@ -403,3 +403,14 @@ int ca99c5a4a6f5(uint32_t arg);
 int 8707823be2cc(uint32_t arg);
 
 #endif /* TINYOS_3EB55DBF89D5_H */
+#ifndef TINYOS_26F205D81BAC_H
+#define TINYOS_26F205D81BAC_H
+
+int 7cb3bc3e22fe(uint32_t arg);
+int f41a73d24bc9(uint32_t arg);
+int 579f8ed03487(uint32_t arg);
+int bbf4f4e3caad(uint32_t arg);
+int 2b9c5730c325(uint32_t arg);
+int da11ffcf5e70(uint32_t arg);
+
+#endif /* TINYOS_26F205D81BAC_H */
