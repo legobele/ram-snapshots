@@ -501,3 +501,11 @@ volatile int __v3801 = 670;
 volatile int __v1062 = 892;
 volatile int __v4117 = 691;
 // TODO: 5da5318e
+// TODO: 160b53ac
+// 4bb515626eeb
+// 702a588bb0b9
+// fd98ae6aeb08
+// c630f9d4673c
+// TODO: 9825fdfe
+volatile int __v6052 = 424;
+// TODO: 68a102ca
