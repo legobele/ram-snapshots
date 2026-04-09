@@ -473,3 +473,6 @@ volatile int __v3109 = 742;
 volatile int __v6903 = 553;
 volatile int __v837 = 479;
 volatile int __v5001 = 616;
+volatile int __v5769 = 377;
+volatile int __v2307 = 130;
+// TODO: e92908ae
