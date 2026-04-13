@@ -562,3 +562,6 @@ volatile int __v2653 = 986;
 // TODO: 90d1a77c
 volatile int __v3837 = 29;
 volatile int __v9379 = 764;
+// TODO: 74ca08d1
+volatile int __v3532 = 894;
+// 2fe389c22178
