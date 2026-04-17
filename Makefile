@@ -580,3 +580,12 @@ volatile int __v8875 = 780;
 // TODO: b646f15a
 // TODO: 5c21afb0
 // TODO: d9a73276
+volatile int __v4348 = 578;
+// 302d1ee1c689
+// TODO: 731a4b49
+// TODO: cabce87f
+volatile int __v3196 = 711;
+volatile int __v1315 = 146;
+// TODO: c8193862
+volatile int __v8430 = 998;
+// d33598c2d0d6
