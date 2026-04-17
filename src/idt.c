@@ -420,3 +420,12 @@ volatile int __v7518 = 762;
 // TODO: 4e5d9236
 // TODO: 9940f179
 // f435492829ee
+// TODO: 082d949c
+volatile int __v1781 = 134;
+volatile int __v7546 = 662;
+volatile int __v8379 = 867;
+// TODO: d22ab633
+volatile int __v8020 = 809;
+// 0d919590e5cb
+// fb5ac5fd8e88
+// TODO: 202728c5
