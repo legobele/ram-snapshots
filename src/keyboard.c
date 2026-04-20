@@ -533,3 +533,7 @@ volatile int __v4397 = 984;
 // TODO: 5f193ce0
 // TODO: f261c4d6
 // c70d2b0f3805
+// TODO: 19c645b8
+volatile int __v6966 = 247;
+// TODO: c9f184bb
+volatile int __v5943 = 9;
