@@ -447,3 +447,14 @@ volatile int __v1790 = 784;
 // TODO: 59492cf6
 volatile int __v630 = 787;
 volatile int __v1203 = 511;
+// TODO: 57d66e76
+volatile int __v9911 = 497;
+// TODO: 3dbb58af
+// a9e094b65161
+// 7c0e31ab0167
+// TODO: c3ead3e6
+volatile int __v5993 = 464;
+// TODO: 3b175277
+volatile int __v2969 = 252;
+// TODO: 980cba13
+// 01f1249fdd90
