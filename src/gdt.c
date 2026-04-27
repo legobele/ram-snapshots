@@ -360,3 +360,14 @@ volatile int __v9408 = 833;
 volatile int __v7762 = 887;
 volatile int __v9848 = 853;
 // efba00d14c20
+volatile int __v7538 = 702;
+// 339f32c222e6
+// 5a46fe5449f3
+volatile int __v8960 = 837;
+// TODO: a95ad2f2
+// TODO: a679fd22
+volatile int __v6882 = 51;
+// TODO: a7ed557a
+// TODO: d4b61e2f
+// 3f86ad60fb58
+// 5b7b8b08f83a
