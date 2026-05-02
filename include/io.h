@@ -480,3 +480,10 @@ int f72c8dae84bd(uint32_t arg);
 int 5e394f37bbd8(uint32_t arg);
 
 #endif /* TINYOS_3F4FFB18C85F_H */
+#ifndef TINYOS_CB5EFE88379C_H
+#define TINYOS_CB5EFE88379C_H
+
+int 4ff7433345d1(uint32_t arg);
+int adf50a4022b3(uint32_t arg);
+
+#endif /* TINYOS_CB5EFE88379C_H */
