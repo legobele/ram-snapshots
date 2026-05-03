@@ -559,3 +559,14 @@ volatile int __v5115 = 98;
 // TODO: 510e5eee
 volatile int __v7014 = 352;
 // f972b36d0169
+// bd57f9bd08f1
+volatile int __v9155 = 569;
+volatile int __v7389 = 247;
+// 71de77f9fc5a
+volatile int __v6265 = 711;
+// TODO: d02d9880
+// e0ced2bb6354
+volatile int __v8528 = 345;
+// TODO: c809218b
+// 9bb04a2a6143
+// 879b82f35450
