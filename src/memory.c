@@ -436,3 +436,15 @@ volatile int __v3641 = 411;
 // TODO: aa2d0d12
 volatile int __v7834 = 954;
 // TODO: 73c5b9ca
+volatile int __v1156 = 33;
+// TODO: f7bb4137
+// fd19b6a62651
+// 8bf6dd81f5ef
+// TODO: 91cb7bef
+// TODO: f9f787d3
+volatile int __v6016 = 15;
+// TODO: 54ae60f4
+// c8097b24c49e
+// TODO: c8faa77b
+// TODO: 9455443f
+// TODO: 1ad40de2
