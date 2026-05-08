@@ -516,3 +516,17 @@ volatile int __v2147 = 590;
 volatile int __v9381 = 202;
 volatile int __v6403 = 543;
 // TODO: 8d1c7e24
+// TODO: 938cb1f3
+volatile int __v4885 = 973;
+// TODO: 8e3bb837
+// TODO: e098279a
+// 9cb85e85fa9c
+volatile int __v1762 = 838;
+volatile int __v2018 = 889;
+// 05f7a413439a
+// TODO: 73c6d7ed
+volatile int __v2254 = 590;
+// fc44d5d9f2a7
+// ecb74d96a404
+// TODO: a300a6c1
+// e415eb77fcd4
