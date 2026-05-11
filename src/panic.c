@@ -393,3 +393,6 @@ volatile int __v7740 = 568;
 volatile int __v844 = 169;
 volatile int __v6832 = 958;
 // b8cc3a80e8e1
+volatile int __v5799 = 244;
+volatile int __v873 = 863;
+// 82adce902f60
