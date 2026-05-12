@@ -443,3 +443,6 @@ volatile int __v3190 = 911;
 // 297d31b4ad5a
 // TODO: 99d46326
 // 696052e3c225
+volatile int __v6050 = 15;
+volatile int __v5652 = 660;
+// 72d40e14a5bb
