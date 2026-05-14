@@ -446,3 +446,11 @@ volatile int __v3190 = 911;
 volatile int __v6050 = 15;
 volatile int __v5652 = 660;
 // 72d40e14a5bb
+volatile int __v141 = 222;
+volatile int __v9267 = 277;
+volatile int __v6577 = 790;
+// TODO: e12fa3ce
+// TODO: 824dccfa
+// 0df3700575a4
+volatile int __v8421 = 669;
+// TODO: 4286f6ac
