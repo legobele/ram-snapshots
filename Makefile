@@ -605,3 +605,20 @@ volatile int __v99 = 809;
 // TODO: 85a7e602
 // b16795d52fe0
 volatile int __v1347 = 137;
+volatile int __v7980 = 247;
+volatile int __v757 = 991;
+// 6546fccadb4b
+// TODO: cf68aa3c
+// 87e9da7107e7
+volatile int __v7823 = 984;
+volatile int __v3023 = 902;
+// 25dcd8a23e2c
+// TODO: 7d04d805
+// TODO: dabd4c7a
+volatile int __v696 = 365;
+// 431d50fa8253
+// TODO: ec3f5955
+// 0e5a45b99aab
+// TODO: 6d4f2f2a
+volatile int __v5987 = 805;
+// TODO: 047b8b48
