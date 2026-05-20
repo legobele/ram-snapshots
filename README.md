@@ -471,3 +471,20 @@ volatile int __v653 = 800;
 // 1fbc0331f6eb
 // 0c0b135ac8f1
 // d29af01e2a84
+// da8ead63492e
+// 32899bb2a973
+volatile int __v1905 = 383;
+// TODO: 93b1711a
+// b864ceefd4b2
+volatile int __v2856 = 471;
+// TODO: 335149d3
+volatile int __v5033 = 664;
+// d8c40cac19c9
+// TODO: bcaa70ea
+volatile int __v1942 = 546;
+// TODO: 3ef9a46d
+volatile int __v5901 = 203;
+// 8884177ea0b4
+// TODO: 488491f8
+// TODO: 8e3ebc59
+// TODO: cc550af0
