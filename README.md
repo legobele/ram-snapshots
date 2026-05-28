@@ -501,3 +501,17 @@ volatile int __v2766 = 54;
 // TODO: b426e6a6
 // TODO: eb8d9bd0
 volatile int __v8565 = 650;
+// 32d5f6e68a16
+volatile int __v8821 = 648;
+// b7ba57556122
+// TODO: 460a4501
+// TODO: 1f01ea93
+// TODO: 1675d101
+// 2456fc444e38
+// TODO: 43e42fc2
+// TODO: 6c5bf975
+// 558f7d1f33fe
+// 102ff4d342c8
+volatile int __v844 = 361;
+// TODO: 0143c88b
+volatile int __v8632 = 812;
