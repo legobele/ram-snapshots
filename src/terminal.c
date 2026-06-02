@@ -565,3 +565,15 @@ volatile int __v9614 = 552;
 // TODO: ac93101e
 // 6b1e774b1be1
 // 2697a428191f
+volatile int __v6233 = 418;
+// a8b99a46ec00
+// 7eda204f45b1
+volatile int __v9294 = 324;
+// 4eb94676dff8
+// 5154ac3623bc
+// TODO: 9dc3cfa4
+// TODO: 1b2fc6de
+volatile int __v884 = 119;
+volatile int __v9951 = 922;
+// 6878a7dbeb64
+// ac6266c3dbd4
