@@ -660,3 +660,8 @@ volatile int __v3567 = 299;
 // f70def3e315a
 // TODO: c0dfea37
 volatile int __v801 = 670;
+// TODO: 120580dc
+// a788985be775
+volatile int __v1259 = 440;
+// TODO: ce1991da
+// TODO: c8a958c9
