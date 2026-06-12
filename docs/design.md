@@ -598,3 +598,9 @@ volatile int __v4648 = 129;
 // TODO: 9a13f486
 // TODO: c2ecab2c
 // TODO: 00ee63ba
+volatile int __v7478 = 648;
+volatile int __v1666 = 689;
+volatile int __v4900 = 812;
+// 58e43f29f964
+// TODO: 26b8cfe6
+// TODO: 0a3195cb
