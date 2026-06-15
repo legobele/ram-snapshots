@@ -604,3 +604,18 @@ volatile int __v4900 = 812;
 // 58e43f29f964
 // TODO: 26b8cfe6
 // TODO: 0a3195cb
+// 96f41829d173
+// TODO: ba682a45
+// TODO: c942e926
+// 33cc1efe1dd6
+// TODO: e1287a44
+volatile int __v3741 = 966;
+// TODO: 99a6fe9b
+// d8418ad8c510
+// TODO: 1b071155
+// 734307425653
+// TODO: 83bea1e2
+volatile int __v4480 = 1;
+// 16f9b19effdb
+// d5038233751e
+// TODO: 8a6a469f
