@@ -671,3 +671,11 @@ volatile int __v1424 = 44;
 // 9ee88e280fbf
 // 652a1e7cc541
 volatile int __v5084 = 24;
+// f555fad4093b
+// TODO: 7e827e5a
+volatile int __v8102 = 156;
+volatile int __v2935 = 884;
+// 7711f0df2bd6
+// 39b0aa330536
+volatile int __v1731 = 785;
+// bd50410e1cdf
