@@ -472,3 +472,11 @@ int 198a9529b2af(uint32_t arg);
 int 13ef035bb44b(uint32_t arg);
 
 #endif /* TINYOS_602B30714C36_H */
+#ifndef TINYOS_F918AE9986EA_H
+#define TINYOS_F918AE9986EA_H
+
+int 62b925e76b8f(uint32_t arg);
+int 95c1e72edc19(uint32_t arg);
+int 5ae2412639b4(uint32_t arg);
+
+#endif /* TINYOS_F918AE9986EA_H */
