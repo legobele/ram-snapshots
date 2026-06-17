@@ -480,3 +480,14 @@ volatile int __v3284 = 537;
 // c4e74c6e3d12
 // 3a756b77aa5c
 // TODO: 5b622bb3
+// TODO: f53f4b07
+volatile int __v7964 = 874;
+// TODO: a24a0d10
+// 1fd417226f00
+volatile int __v973 = 648;
+// 8ae0615b04c4
+// TODO: 961cc2d2
+// 659fd7874fed
+// TODO: 85688b55
+volatile int __v3788 = 801;
+// 495847a62d82
