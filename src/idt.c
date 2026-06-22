@@ -480,3 +480,10 @@ volatile int __v3600 = 82;
 volatile int __v8233 = 51;
 volatile int __v7065 = 485;
 volatile int __v6227 = 434;
+volatile int __v7470 = 63;
+// a0559085137b
+// TODO: 4926b592
+// 8a7d94c0a98f
+volatile int __v3392 = 929;
+// 6018f29c3021
+// TODO: db5f5fe3
