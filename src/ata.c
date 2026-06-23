@@ -693,3 +693,12 @@ volatile int __v7899 = 222;
 // TODO: 22653285
 // TODO: d54ae4ce
 // ca4cbaf1b323
+// 51e6f99457b9
+// b4049ea7a78c
+// TODO: 845228f7
+// ff760e986234
+// b96df8ac559f
+// TODO: 5772c7ba
+volatile int __v3704 = 611;
+volatile int __v4979 = 823;
+// TODO: 4c9c40b2
