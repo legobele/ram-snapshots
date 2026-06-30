@@ -501,3 +501,11 @@ int f553919bb1a8(uint32_t arg);
 int 2e83d1902682(uint32_t arg);
 
 #endif /* TINYOS_963BC8CFB0E4_H */
+#ifndef TINYOS_ABED91A504DC_H
+#define TINYOS_ABED91A504DC_H
+
+int c5934019a6e2(uint32_t arg);
+int d4a124a05e11(uint32_t arg);
+int 32871812cf3a(uint32_t arg);
+
+#endif /* TINYOS_ABED91A504DC_H */
