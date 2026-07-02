@@ -640,3 +640,12 @@ volatile int __v8097 = 99;
 // TODO: 605ba0dd
 volatile int __v7090 = 127;
 volatile int __v7614 = 793;
+// c9898196ffa7
+volatile int __v4400 = 859;
+// a50aedd09965
+// TODO: 7a9edd7e
+// TODO: d2f6d227
+volatile int __v912 = 617;
+// d8a5e3a3c085
+// TODO: 23d87199
+// TODO: 9b818935
