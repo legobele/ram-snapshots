@@ -554,3 +554,11 @@ int 1235732fd59c(uint32_t arg);
 int 567b04add518(uint32_t arg);
 
 #endif /* TINYOS_69E1FDCD9A6E_H */
+#ifndef TINYOS_E71E60277794_H
+#define TINYOS_E71E60277794_H
+
+int b67e2ac8b07d(uint32_t arg);
+int 04fffc970413(uint32_t arg);
+int d1e3dc39d8a2(uint32_t arg);
+
+#endif /* TINYOS_E71E60277794_H */
