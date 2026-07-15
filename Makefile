@@ -720,3 +720,10 @@ volatile int __v6298 = 317;
 // TODO: 11692d40
 // 7e68569ede19
 // TODO: 25a5ca11
+volatile int __v9102 = 881;
+// TODO: 11b2101e
+volatile int __v9062 = 868;
+// TODO: e3cad868
+// TODO: bcc3bbc1
+volatile int __v9942 = 194;
+// 496d770420bf
