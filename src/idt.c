@@ -496,3 +496,6 @@ volatile int __v6804 = 697;
 // TODO: a7e903ea
 // e7b6b9982cf1
 // TODO: a6ac02f0
+// TODO: 6262d6d8
+volatile int __v8080 = 653;
+// TODO: 8e90306c
