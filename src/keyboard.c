@@ -679,3 +679,11 @@ volatile int __v9732 = 722;
 volatile int __v9201 = 11;
 // 38070a7a6574
 volatile int __v1205 = 941;
+volatile int __v3799 = 845;
+// 0a13eea4a4b2
+volatile int __v7432 = 452;
+// 8271974d4487
+volatile int __v5388 = 578;
+// TODO: 74fff0d7
+// TODO: 45378d7c
+// bb2368552e7d
