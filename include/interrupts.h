@@ -544,3 +544,10 @@ int ff713c39d1a2(uint32_t arg);
 int 9ae5e3cd444d(uint32_t arg);
 
 #endif /* TINYOS_C1FF0BA411D3_H */
+#ifndef TINYOS_C6AAAE3D2F16_H
+#define TINYOS_C6AAAE3D2F16_H
+
+int 3c07375fe536(uint32_t arg);
+int 55cf7ef17acc(uint32_t arg);
+
+#endif /* TINYOS_C6AAAE3D2F16_H */
