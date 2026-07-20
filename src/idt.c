@@ -516,3 +516,16 @@ volatile int __v6714 = 2;
 // TODO: a04fbb66
 // TODO: 7a4ebd1d
 volatile int __v4793 = 592;
+// TODO: 9923fd84
+// 13a32e6cdfc0
+// TODO: 87a719df
+// TODO: 39d27360
+// TODO: 4feeb401
+volatile int __v2924 = 585;
+// TODO: 6901ce6b
+// TODO: e08b232f
+// TODO: 59d4c369
+// TODO: ab1e6e4b
+// TODO: 7b4c7a0e
+// a95ddc15630c
+volatile int __v9050 = 561;
