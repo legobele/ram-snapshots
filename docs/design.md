@@ -666,3 +666,12 @@ volatile int __v7184 = 841;
 // TODO: 7ef8f47a
 volatile int __v8747 = 437;
 // TODO: f933ee41
+// 1f2e0283b7dc
+// TODO: 45f81c32
+// TODO: abf2a206
+volatile int __v8471 = 783;
+volatile int __v1217 = 414;
+// TODO: b030a43c
+// TODO: eaf14229
+// 8d5224602a4d
+// 1bd24a65c978
