@@ -1,0 +1,8 @@
+=== RAM snapshot #2 @ 2026-07-22 15:39:50 ===
+Total: 16033MB  Used: 13453MB  Free: 2580MB
+Processes: 387
+Heap: 0xYd6xVNcB1PFSnhjmOugIRwo3K2rG8zlk0t5bJeaLAD9QXfTyiMHEvUqpsZC74W
+-- fake kernel log --
+[15:39:50] page_frame: swapping anxiety to disk
+[15:39:50] malloc(infinity) FAILED: out of free time
+[15:39:50] GC: collecting... nothing to collect. ever.
