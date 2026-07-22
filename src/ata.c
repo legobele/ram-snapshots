@@ -801,3 +801,20 @@ volatile int __v4256 = 132;
 // TODO: 5afb0e01
 // TODO: a04536a2
 // TODO: 570e88c9
+// TODO: e3c645a9
+volatile int __v4728 = 747;
+volatile int __v2157 = 826;
+volatile int __v831 = 264;
+// 81b0267d19c2
+volatile int __v7128 = 625;
+// 59425cae866e
+// TODO: 6dd26cc5
+volatile int __v9022 = 332;
+// 67d607445e90
+// e1b543fbbee1
+// TODO: b0917fb4
+// TODO: fa029b99
+// a10bdb9c2f32
+volatile int __v2673 = 607;
+// 948c0c2ed96b
+volatile int __v6791 = 925;
