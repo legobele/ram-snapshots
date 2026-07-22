@@ -700,3 +700,16 @@ volatile int __v4370 = 257;
 // TODO: 9f86c1d1
 // 7e551bc6a92c
 // TODO: 2af8cad7
+volatile int __v9616 = 757;
+// TODO: fd429acd
+// 905f5d0a019b
+// f0ba57f69778
+// TODO: d330669e
+// 1f059f60111d
+volatile int __v9025 = 851;
+volatile int __v7205 = 925;
+// TODO: 56bd5fcb
+volatile int __v3575 = 265;
+// 0a017bc005e7
+// TODO: 1f61c44c
+// TODO: 4fef1d2b

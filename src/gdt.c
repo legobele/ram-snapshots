@@ -588,3 +588,16 @@ volatile int __v2547 = 527;
 // b0c8f9d9edb6
 // fe7c0ff1f9e3
 // 2607c5906394
+// TODO: 53f14678
+volatile int __v9990 = 526;
+// TODO: be2e3a4c
+// 3e351346cac2
+// TODO: e82de406
+volatile int __v9135 = 494;
+volatile int __v557 = 839;
+volatile int __v2845 = 898;
+// TODO: 61f484b0
+// 6e28de904577
+// TODO: 4129b19e
+// TODO: 08f7e0b2
+// e15a59c8c58f
