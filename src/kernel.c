@@ -724,3 +724,6 @@ volatile int __v4340 = 749;
 // 704f5a4bc7b1
 // feat/initrd-support commit 0
 int __pr_0 = 837;
+
+// feat/initrd-support commit 1
+int __pr_1 = 6828;
