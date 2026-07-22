@@ -699,3 +699,14 @@ volatile int __v3549 = 135;
 // TODO: 35f32fb2
 // 6b78a757f89a
 // 21ebaa57bb19
+// TODO: 16b4ebbb
+// ac16453f25f7
+// cc725cedb493
+// TODO: 833a2b1e
+// 4cff140d6159
+volatile int __v5822 = 762;
+// ed34e1b1815f
+volatile int __v2169 = 260;
+// TODO: b3d86982
+volatile int __v3568 = 881;
+// TODO: e2e73c4b
