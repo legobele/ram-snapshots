@@ -749,3 +749,19 @@ volatile int __v264 = 927;
 // TODO: a3e31b54
 volatile int __v7 = 856;
 // TODO: 7787e16a
+// TODO: dce7b299
+// TODO: 2d9bdf27
+volatile int __v6043 = 675;
+// TODO: f9d80dcf
+// 33c4c8749880
+volatile int __v3635 = 757;
+volatile int __v8032 = 8;
+// b02bdc513979
+volatile int __v6906 = 222;
+// TODO: ebf70a28
+// TODO: 060dc06f
+// a0926ff8fb1a
+// bf1d516bc0f2
+volatile int __v6206 = 694;
+volatile int __v8145 = 18;
+// TODO: c436bfb2
