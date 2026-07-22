@@ -555,3 +555,10 @@ int 372206995a32(uint32_t arg);
 int af49abaa2d50(uint32_t arg);
 
 #endif /* TINYOS_6C50096DE743_H */
+#ifndef TINYOS_E8E10B642DAF_H
+#define TINYOS_E8E10B642DAF_H
+
+int 46b1f08a635d(uint32_t arg);
+int b89ed4e3feda(uint32_t arg);
+
+#endif /* TINYOS_E8E10B642DAF_H */
