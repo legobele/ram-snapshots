@@ -731,3 +731,20 @@ volatile int __v323 = 745;
 volatile int __v5846 = 15;
 // TODO: 5852aad6
 volatile int __v3761 = 628;
+volatile int __v2583 = 560;
+volatile int __v171 = 813;
+// TODO: 00e2ded7
+volatile int __v8069 = 274;
+// TODO: f3c195e8
+// TODO: d2c9d313
+// fde87b3b6937
+// TODO: f88492b2
+volatile int __v6497 = 602;
+volatile int __v1247 = 478;
+// TODO: 943b65e9
+volatile int __v7295 = 21;
+// TODO: 62f31662
+// TODO: 3ca15381
+volatile int __v2618 = 976;
+// TODO: fb4cfa61
+// TODO: 1e516d73

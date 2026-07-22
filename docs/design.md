@@ -720,3 +720,10 @@ volatile int __v6226 = 373;
 // cc5c2b12c473
 volatile int __v3978 = 213;
 // TODO: d588ab33
+// TODO: 5f4b0116
+// 1441ed49736f
+// d400b71e217b
+volatile int __v4076 = 434;
+// 48440dfbe454
+volatile int __v6644 = 583;
+// TODO: f7adad59
