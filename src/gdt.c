@@ -558,3 +558,10 @@ volatile int __v4398 = 697;
 // d4b9fe056033
 // 84dd7296195e
 // TODO: 8f718e00
+volatile int __v2345 = 495;
+// 70f8981f6d51
+volatile int __v1532 = 227;
+volatile int __v1946 = 687;
+// TODO: 9bed102d
+volatile int __v9369 = 335;
+// TODO: 770d2808
