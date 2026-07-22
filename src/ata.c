@@ -818,3 +818,15 @@ volatile int __v9022 = 332;
 volatile int __v2673 = 607;
 // 948c0c2ed96b
 volatile int __v6791 = 925;
+// f702f738e4f9
+// 7962315e9b44
+// TODO: f24933a2
+// TODO: 82ddc919
+// cfcd06eaec29
+// 0f1f59249481
+// b0a38291e006
+volatile int __v4195 = 186;
+// 11f37de40892
+// TODO: 0247c4b2
+volatile int __v6953 = 535;
+// c4a7079f652f
