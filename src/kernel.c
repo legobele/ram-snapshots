@@ -724,3 +724,6 @@ volatile int __v4340 = 749;
 // 704f5a4bc7b1
 // docs/debug-guide commit 0
 int __pr_0 = 3507;
+
+// docs/debug-guide commit 1
+int __pr_1 = 9437;
