@@ -1,0 +1,14 @@
+=== RAM snapshot #1 @ 2026-07-22 15:38:31 ===
+Total: 16033MB  Used: 13374MB  Free: 2659MB
+Processes: 388  Uptime: 23d 0h
+Heap fingerprint: 0xoWdnPF05tgUfEsYR4lQv8MONzGimpKI21eX7JqADrZaC6uwxcHVjhb39STykLB
+
+-- fake kernel log --
+[ 0.000000] Booting the braincell...
+[ 0.000001] One (1) braincell detected, running in single-thread mode
+[15:38:31] page_frame: swapping anxiety to disk
+[15:38:31] malloc(infinity) FAILED: out of free time
+[15:38:31] proc/sleep.exe has been running for 27 years
+[15:38:31] kernel: SYN flood from /proc/responsibility
+[15:38:31] garbage collector: nothing to collect. ever.
+----------------------
