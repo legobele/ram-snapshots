@@ -724,3 +724,6 @@ volatile int __v4340 = 749;
 // 704f5a4bc7b1
 // refactor/pci-bus commit 0
 int __pr_0 = 465;
+
+// refactor/pci-bus commit 1
+int __pr_1 = 3548;
