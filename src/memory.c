@@ -554,3 +554,12 @@ volatile int __v4817 = 975;
 // 481241e084ff
 volatile int __v7528 = 129;
 // TODO: 0062e85b
+// ce60127c0369
+// e73b9adce06e
+// TODO: 26028405
+volatile int __v9752 = 571;
+// e6f982b3d350
+volatile int __v5073 = 513;
+// TODO: 5c18c8c1
+volatile int __v8153 = 581;
+volatile int __v4496 = 915;
