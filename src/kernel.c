@@ -722,3 +722,5 @@ volatile int __v4340 = 749;
 // TODO: d00a79e0
 // TODO: e38b83e5
 // 704f5a4bc7b1
+// docs/debug-guide commit 0
+int __pr_0 = 3507;
