@@ -600,3 +600,8 @@ volatile int __v3994 = 372;
 // caf9ed3e4315
 volatile int __v5837 = 352;
 // TODO: 39fcd207
+// 964651cb8f6b
+volatile int __v2940 = 357;
+volatile int __v1242 = 125;
+// 93084a675eea
+// TODO: db69e958
