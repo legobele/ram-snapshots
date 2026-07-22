@@ -810,3 +810,10 @@ volatile int __v4151 = 46;
 // fec42ac4c4c6
 volatile int __v8699 = 408;
 // cfe276f88412
+volatile int __v9715 = 616;
+// 6702edebfd48
+volatile int __v968 = 855;
+volatile int __v1491 = 121;
+volatile int __v9751 = 405;
+// TODO: ab896bbe
+volatile int __v4229 = 197;
