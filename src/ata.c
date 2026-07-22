@@ -789,3 +789,15 @@ volatile int __v875 = 473;
 // TODO: 97ed0e43
 // TODO: 3444df01
 volatile int __v1673 = 82;
+volatile int __v5405 = 250;
+volatile int __v6288 = 135;
+// 650fd20ef4e4
+// TODO: 9aee3af8
+// 925b37d0362b
+volatile int __v8203 = 461;
+// TODO: d6e1a289
+volatile int __v4256 = 132;
+// TODO: 5895a3d9
+// TODO: 5afb0e01
+// TODO: a04536a2
+// TODO: 570e88c9
