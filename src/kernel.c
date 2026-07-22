@@ -660,3 +660,18 @@ volatile int __v2709 = 344;
 volatile int __v2494 = 170;
 // TODO: 369a2e01
 // d5ea0c736e24
+volatile int __v1906 = 645;
+// 6f1d7aa2512c
+volatile int __v4804 = 233;
+// TODO: 0e0abb6d
+volatile int __v7698 = 58;
+volatile int __v1639 = 825;
+// 18f027ebd246
+// TODO: 700008cf
+// 0ccff8984f0d
+// a74bfc6ef8e9
+volatile int __v3349 = 214;
+volatile int __v6235 = 816;
+volatile int __v3970 = 545;
+// TODO: 19530f92
+volatile int __v8106 = 43;
